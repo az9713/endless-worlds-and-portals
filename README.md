@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**80 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**81 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -822,7 +822,7 @@ Worlds: The Line Along the River of Stars, The Pencil Railway, The Liquid-Crysta
 
 <details><summary>Part 081 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-081.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/ebb5c4d5-75ca-47b1-a190-6aa62427ecc3
 
 Worlds: A Page of Jellyfish, The Long Library, The Longest Animal.
 
