@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**34 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**36 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -356,7 +356,7 @@ Worlds: My House, in Crayon (Rain), The Growing Crescent · 66 million years ago
 
 <details><summary>Part 035 — 1 worlds · 0:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-035.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/1ee25195-26f4-45b6-9ee8-f01c35d921dc
 
 Worlds: The Wood of Shaved Cedar.
 
@@ -366,7 +366,7 @@ Worlds: The Wood of Shaved Cedar.
 
 <details><summary>Part 036 — 2 worlds · 0:40</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-036.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/ce34ff98-2675-4a4f-b0e7-35e742a3c8b0
 
 Worlds: Cut from the Sky, The Cut Mountain, first light.
 
