@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**88 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**97 playable videos · 304 worlds · 101 minutes 20 seconds.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -902,7 +902,7 @@ Worlds: Moon in Every Paddy, Fire of the Moon Jars, The Footprints of a Gigantic
 
 <details><summary>Part 089 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-089.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/36026477-a48b-4cb6-bfb9-29c12ca5e89f
 
 Worlds: The House with Its Roof Blown Off, The Long Rain, Turning to Snow, The Mother-of-Pearl Shoal.
 
@@ -912,7 +912,7 @@ Worlds: The House with Its Roof Blown Off, The Long Rain, Turning to Snow, The M
 
 <details><summary>Part 090 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-090.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/c73ef1a8-7371-45af-a8c9-84afa398fadb
 
 Worlds: The Mountain of Four Elements, The Wall of Dust, Which One Is the Dog, The Lake Takes Flight.
 
@@ -922,7 +922,7 @@ Worlds: The Mountain of Four Elements, The Wall of Dust, Which One Is the Dog, T
 
 <details><summary>Part 091 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-091.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/a5af993b-d2ca-4554-b460-e7ab008d86a1
 
 Worlds: Neon Monsoon, The Water-Lit Hall, Up to the Monastery in a Net.
 
@@ -932,7 +932,7 @@ Worlds: Neon Monsoon, The Water-Lit Hall, Up to the Monastery in a Net.
 
 <details><summary>Part 092 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-092.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/85dba95c-c105-4a90-b058-c2871335164a
 
 Worlds: Night by the Slice, A Balloon at Polar Midnight, Where Night Spends the Day, No Colour upon Colour.
 
@@ -942,7 +942,7 @@ Worlds: Night by the Slice, A Balloon at Polar Midnight, Where Night Spends the 
 
 <details><summary>Part 093 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-093.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/c0de7393-3c77-45e1-a1e9-35e5b70310be
 
 Worlds: Nobody Up Yet, Black Glass and Lava, The City That Is Only Its Map: Early Edition, One Day under the Oculus.
 
@@ -952,7 +952,7 @@ Worlds: Nobody Up Yet, Black Glass and Lava, The City That Is Only Its Map: Earl
 
 <details><summary>Part 094 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-094.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/f8a8d328-6e3a-4ab1-8584-80dd11ba1676
 
 Worlds: Old Light Arriving, The One-Bit Moon, The One Standing Place, After Rain, Orbital Sunrise.
 
@@ -962,7 +962,7 @@ Worlds: Old Light Arriving, The One-Bit Moon, The One Standing Place, After Rain
 
 <details><summary>Part 095 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-095.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/0bd0f051-bdf3-4bc5-a195-441c669079fb
 
 Worlds: Otter in the Window Seat, Out the Nursery Window, Over the Rim, Cloud Sea, Over the Wall on a Box.
 
@@ -972,7 +972,7 @@ Worlds: Otter in the Window Seat, Out the Nursery Window, Over the Rim, Cloud Se
 
 <details><summary>Part 096 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-096.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/be0fee64-389c-4209-8b7c-710864ceb117
 
 Worlds: The Painted Ridges, Painted Shadow Town, Painted Where You Stood, A Tower Built to Burn.
 
@@ -982,7 +982,7 @@ Worlds: The Painted Ridges, Painted Shadow Town, Painted Where You Stood, A Towe
 
 <details><summary>Part 097 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-097.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/c02a2f33-ed60-46b3-b83e-98db9acbb327
 
 Worlds: Paper Boat Rapids, The Pop-Up Book Opens, Stripes of April.
 
