@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**23 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**24 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -246,7 +246,7 @@ Worlds: The Inner Highway, What the Chains Decided: Evening, The Chamak Road.
 
 <details><summary>Part 024 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-024.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/242e106d-b136-439c-a877-0288db157c69
 
 Worlds: The Chambered Sun, The Chandelier City, Blue Hour, Checkerboard Approach, last light.
 
