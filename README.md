@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**78 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**79 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -802,7 +802,7 @@ Worlds: The Last Lit Windows, The Leaded Forest, The Lemon Cliffs.
 
 <details><summary>Part 079 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-079.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/f9f076c4-0975-4247-a8e0-bdf80b6b4254
 
 Worlds: The Lighthouse Lens, Snow Light, Light from the Left, A Light in Every Dark Place.
 
