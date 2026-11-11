@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**51 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**52 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -530,7 +530,7 @@ Worlds: The Folding Market (Festival Day), Raindrop Trees, Macramé Forest.
 
 <details><summary>Part 052 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-052.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/2462e0ff-291a-4a41-9fcc-b3f60ff5de2c
 
 Worlds: Small Planet, Empty Chair, Launch Row, Evening Edition, Four Stone Kings over the River.
 
