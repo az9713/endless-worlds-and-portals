@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**59 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**60 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -612,7 +612,7 @@ Worlds: Under the Fibre-Optic Willow, The Moth and the Telescope, The Road Throu
 
 <details><summary>Part 060 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-060.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/014ddd88-e828-42fb-841c-ca633b796bcd
 
 Worlds: Green with the Rain, The Groundswell, The Hail Cathedral.
 
