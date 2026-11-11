@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**26 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**27 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -276,7 +276,7 @@ Worlds: The City Hung Below Its Net, The City in the Lake, The City on Stilts Ab
 
 <details><summary>Part 027 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-027.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/cb6f723d-0c7b-45aa-9b8e-fdde1ce88b01
 
 Worlds: The Clipped Menagerie, The Gold-Wire Harbour by Lantern at New Year, The Cloud Armada, A Jungle Inside the Mountain.
 
