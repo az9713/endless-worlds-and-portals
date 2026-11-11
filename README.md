@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**18 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**19 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -196,7 +196,7 @@ Worlds: Volcano Plume on an Airless Moon, The Ice Finger, Walled All Around in B
 
 <details><summary>Part 019 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-019.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8c04dd50-68ab-4a2b-912c-507ebec17c37
 
 Worlds: Skin of a Bubble, Frost Morning, Cables to the Moon, Sunshafts in the Slot Canyon.
 
