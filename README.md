@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**58 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**59 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -602,7 +602,7 @@ Worlds: The Fleet Under Glass, The Glaze Stops at the Knees, Glider Country.
 
 <details><summary>Part 059 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-059.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/ccdd852b-41d8-4ec4-9b93-7da68540bf4f
 
 Worlds: Under the Fibre-Optic Willow, The Moth and the Telescope, The Road Through the Poppies.
 
