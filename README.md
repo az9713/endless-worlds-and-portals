@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**68 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**69 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -702,7 +702,7 @@ Worlds: Where Ships Go to Live, Carved in Red Lacquer.
 
 <details><summary>Part 069 — 1 worlds · 0:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-069.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/d8d1994c-b0b8-4253-bc92-173fdd1fad5a
 
 Worlds: The Glass Birches.
 
