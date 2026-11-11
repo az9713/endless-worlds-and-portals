@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**30 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**32 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -316,7 +316,7 @@ Worlds: Perihelion, Corniche at 120 BPM, after midnight, Coronal Rain: Prominenc
 
 <details><summary>Part 031 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-031.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/ced11e25-adfc-486a-80bf-d7229b9ed6ab
 
 Worlds: A Great Huge Game of Chess, The Country of Pins, in Copper, The Country with No Up.
 
@@ -326,7 +326,7 @@ Worlds: A Great Huge Game of Chess, The Country of Pins, in Copper, The Country 
 
 <details><summary>Part 032 — 2 worlds · 0:40</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-032.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/fff18e52-7574-4558-9e09-689ca4a2af9b
 
 Worlds: The Gate Meant for You Alone, The Morning Lift.
 
