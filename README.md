@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**63 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**64 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -652,7 +652,7 @@ Worlds: The Hanging Gardens of Babylon, The Hanging Meadow · 182 million years 
 
 <details><summary>Part 064 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-064.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/d93b6a0a-d4e0-4503-a4aa-ea8b3398cb09
 
 Worlds: The Harbour of One Lamp, Harvest in Profile, Heavy Things on a Sheet, The Hill of Round Doors.
 
