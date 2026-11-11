@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**14 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**15 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -156,7 +156,7 @@ Worlds: The Blown City, Fedora, the Cities It Might Have Been, The Colour Run: F
 
 <details><summary>Part 015 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-015.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/b971578f-d56b-46a5-82e7-24de6d4b618f
 
 Worlds: Sulphur Burns Blue, The Blue Riband: Morning Arrival, Blue Sails on a Dry Sea.
 
