@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**53 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**54 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -550,7 +550,7 @@ Worlds: The Frieze Without End, Museum of Frozen Weather, Gale in Green Glass.
 
 <details><summary>Part 054 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-054.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/6021d108-dc6a-41cc-a308-0a51bb28a96e
 
 Worlds: Galimoto, Early, The Galleon Among the Flowers, White with Gannets.
 
