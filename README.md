@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**71 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**72 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -732,7 +732,7 @@ Worlds: The Iron Tide, The Eiffel Tower by Gaslight, The Island Being Born.
 
 <details><summary>Part 072 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-072.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/7c8aedd5-567e-491b-a98e-ab1ce562d8a2
 
 Worlds: An Island in the Air, The Floating Islands, The Isle of Broken Towers, The Jungle He Never Saw.
 
