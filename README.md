@@ -1,4 +1,4 @@
-# Portals: Beyond — compressed video showcase
+# Endless Worlds and Portals — compressed video showcase
 
 <!-- PUBLICATION-IN-PROGRESS -->
 > Upload in progress. Some MP4 downloads and inline players are still being added. The player count below shows what is ready.
