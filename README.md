@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**21 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**22 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -226,7 +226,7 @@ Worlds: The Carillon Grove, Night, Carnival on the Frozen River, The Carousel Wo
 
 <details><summary>Part 022 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-022.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/550b8808-fbd8-4c53-9ff5-603e70d23b06
 
 Worlds: The Carved House at Harvest Dusk, Cast Off: A Mohair Day, Castle Before the Tide: Black Sand.
 
