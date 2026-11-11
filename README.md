@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**32 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**34 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -336,7 +336,7 @@ Worlds: The Gate Meant for You Alone, The Morning Lift.
 
 <details><summary>Part 033 — 1 worlds · 0:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-033.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/b0945218-6999-4291-bbb7-2796d2cb751a
 
 Worlds: Cranes in the Steam.
 
@@ -346,7 +346,7 @@ Worlds: Cranes in the Steam.
 
 <details><summary>Part 034 — 2 worlds · 0:40</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-034.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/a95e1ab6-abc6-47b8-9633-fdeac58b2fe8
 
 Worlds: My House, in Crayon (Rain), The Growing Crescent · 66 million years ago.
 
