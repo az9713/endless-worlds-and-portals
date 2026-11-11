@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**24 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**25 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -256,7 +256,7 @@ Worlds: The Chambered Sun, The Chandelier City, Blue Hour, Checkerboard Approach
 
 <details><summary>Part 025 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-025.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/b1b8f91f-9b74-49dd-8ec0-c4999ccb567f
 
 Worlds: The Chinar Terraces in April, Half the Town Overhead, Valdrada, the City Built Twice.
 
