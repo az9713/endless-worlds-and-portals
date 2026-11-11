@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**9 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**10 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -106,7 +106,7 @@ Worlds: Shark Pass, The Attic Line, Aurora Fjord.
 
 <details><summary>Part 010 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-010.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8df576a5-0df3-4bdf-bd19-dbadaa19e067
 
 Worlds: The Blue Tile Hill, Down Through the Fog, The Jade Range.
 
