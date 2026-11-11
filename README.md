@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**74 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**75 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -762,7 +762,7 @@ Worlds: The River Tied in a Knot, The Lotus Room, Grey Morning, Kolam at Dawn.
 
 <details><summary>Part 075 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-075.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/be7f7352-122e-453c-862f-e27bbc30682c
 
 Worlds: The Night the Kurbits Grew, The Ladder Orchard, Night, The Lake Comes Down in Curls.
 
