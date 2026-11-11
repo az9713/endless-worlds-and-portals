@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**46 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**47 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -480,7 +480,7 @@ Worlds: We Passed the Fields of Gazing Grain, Figure and Ground, rain edition, T
 
 <details><summary>Part 047 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-047.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/6cb2850d-82d7-49ac-9e8b-ddaa25ca3160
 
 Worlds: Fireworks in Wax and Ink, Palace of the First Rain: Rose Dawn, The Thousand-Stair Rain.
 
