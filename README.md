@@ -2,7 +2,9 @@
 
 An endless, hands-off flight through 504 procedural 3D worlds in the browser. Each world ends in a portal. The portal opens on the next world, and the flight continues.
 
-**Live site: <https://az9713.github.io/endless-worlds-and-portals/>**
+[![The Midwinter Express, one world of the app: a steam train crosses a lit stone viaduct above a snowy mountain town at dusk. Click to open the live app.](readme/portals-screenshot.jpeg)](https://az9713.github.io/endless-worlds-and-portals/)
+
+**Live site: <https://az9713.github.io/endless-worlds-and-portals/>** (click the picture above to open it)
 
 Press **S** for sound. The site is a static web page. Your browser draws every world, so nothing streams from a server and no video file is involved.
 
