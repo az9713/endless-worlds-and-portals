@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**11 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**12 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -126,7 +126,7 @@ Worlds: Small Flat with Ballroom, The Bamboo Sea, The Tree That Is a Forest.
 
 <details><summary>Part 012 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-012.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8f5f0425-0a32-4760-97e9-74984851b5a2
 
 Worlds: The Bear at the Feast, The Organ Cave, Mega Mendung: Bang-Bangan.
 
