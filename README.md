@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**47 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**50 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -490,7 +490,7 @@ Worlds: Fireworks in Wax and Ink, Palace of the First Rain: Rose Dawn, The Thous
 
 <details><summary>Part 048 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-048.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8f3b8e6a-ebd7-452f-a38d-48477c9d4acd
 
 Worlds: First Snow on Chocolate Paper, River of Five Colours, The Colosseum at Its Opening Games.
 
@@ -500,7 +500,7 @@ Worlds: First Snow on Chocolate Paper, River of Five Colours, The Colosseum at I
 
 <details><summary>Part 049 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-049.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/6e9003c8-d08c-4d8d-aada-59c7b5f20e0e
 
 Worlds: Under the Long-Haired Star, The Flinching Forest, Saffron Day, The Floor Without Windows.
 
@@ -510,7 +510,7 @@ Worlds: Under the Long-Haired Star, The Flinching Forest, Saffron Day, The Floor
 
 <details><summary>Part 050 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-050.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8a431851-c543-470c-a2eb-d8e636558251
 
 Worlds: Flying Boat Bay, The Bridge in the Fog River, first light, The Fogged Palm House.
 
