@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**75 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**77 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -772,7 +772,7 @@ Worlds: The Night the Kurbits Grew, The Ladder Orchard, Night, The Lake Comes Do
 
 <details><summary>Part 076 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-076.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/45e3acb3-b371-4ce7-b408-652456e3abfc
 
 Worlds: The Lake Dyed Three Times: Early October, Strawberries the Size of Houses, Climbing the Tree City.
 
@@ -782,7 +782,7 @@ Worlds: The Lake Dyed Three Times: Early October, Strawberries the Size of House
 
 <details><summary>Part 077 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-077.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/bf1ab79f-1f43-4804-85e5-4ae294664f05
 
 Worlds: The Hatch in the Forest Floor, River of Lanterns, Midnight, Lanterns under the Ice.
 
