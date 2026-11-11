@@ -1,0 +1,4683 @@
+{
+  "title": "Portals: Beyond — 97 compressed video parts",
+  "partsCount": 97,
+  "worldsCount": 304,
+  "sourceCollectionWorlds": 520,
+  "secondsPerWorld": 20,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "snapshot": "2026-11-10_211320_UTC",
+  "totalBytes": 2828087574,
+  "durationSeconds": 6080,
+  "parts": [
+    {
+      "part": 1,
+      "file": "portals-all-worlds-part-001.mp4",
+      "bytes": 28042039,
+      "sha256": "02b9565f422413633a3b739be3e460c2910c6b91e220ad2b1da0ab6fb47caaa1",
+      "duration": 60,
+      "audio": {
+        "peak": 0.14098277688026428,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "New original worlds",
+      "worlds": [
+        {
+          "id": "x-story-wonderland-garden",
+          "ordinal": 1,
+          "title": "The Garden Where Tea Never Ends",
+          "original": true,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "x-dream-book-bridges",
+          "ordinal": 2,
+          "title": "The Library That Learned to Span Rivers",
+          "original": true,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "x-sci-neutrino-sea",
+          "ordinal": 3,
+          "title": "One Neutrino in a Golden Sea",
+          "original": true,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 81337255,
+      "sourceSha256": "2681575c81c09c3f9213a00c7fe29e5e1eac65c1dcc313ca263ea4cc0e51a062",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 2,
+      "file": "portals-all-worlds-part-002.mp4",
+      "bytes": 67156033,
+      "sha256": "79afdfc48ce41b3430d39cc74ed477e6fd205ba0a4d3a450a2057ff01d1c3155",
+      "duration": 160,
+      "audio": {
+        "peak": 0.1329292505979538,
+        "bad": 0,
+        "duration": 160
+      },
+      "group": "New original worlds",
+      "worlds": [
+        {
+          "id": "x-style-ribbon-town",
+          "ordinal": 4,
+          "title": "The Town on the Other Side",
+          "original": true,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "x-dream-brass-cloud-city",
+          "ordinal": 5,
+          "title": "The City That Borrowed Its Weight from Clouds",
+          "original": true,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "x-dream-clockwork-midnight",
+          "ordinal": 6,
+          "title": "The City Between Two Ticks",
+          "original": true,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "x-story-tempest-island",
+          "ordinal": 7,
+          "title": "The Island That Staged a Storm",
+          "original": true,
+          "draft": false,
+          "start": 60,
+          "end": 80
+        },
+        {
+          "id": "x-dream-frozen-thunder",
+          "ordinal": 8,
+          "title": "The Cathedral of Unfallen Thunder",
+          "original": true,
+          "draft": false,
+          "start": 80,
+          "end": 100
+        },
+        {
+          "id": "x-dream-ink-archipelago",
+          "ordinal": 9,
+          "title": "An Archipelago in a Drop of Ink",
+          "original": true,
+          "draft": false,
+          "start": 100,
+          "end": 120
+        },
+        {
+          "id": "x-dream-inverted-orchard",
+          "ordinal": 10,
+          "title": "The Orchard Where Rain Goes Home",
+          "original": true,
+          "draft": false,
+          "start": 120,
+          "end": 140
+        },
+        {
+          "id": "x-dream-lantern-railway",
+          "ordinal": 11,
+          "title": "The Last Train Carries the Moon",
+          "original": true,
+          "draft": false,
+          "start": 140,
+          "end": 160
+        }
+      ],
+      "sourceBytes": 90760470,
+      "sourceSha256": "9623ba1a24246e992dbb4ae77a9e0046e241f056c93f6cb93a3fa8d98d15d892",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 3,
+      "file": "portals-all-worlds-part-003.mp4",
+      "bytes": 60129129,
+      "sha256": "acbfe6bb504140b867bba4eecc074ab235468cc4c52e121c526fb33bdd7c684c",
+      "duration": 140,
+      "audio": {
+        "peak": 0.14472037553787231,
+        "bad": 0,
+        "duration": 140
+      },
+      "group": "New original worlds",
+      "worlds": [
+        {
+          "id": "x-dream-midnight-post",
+          "ordinal": 12,
+          "title": "The Postal Service Beneath the World",
+          "original": true,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "x-dream-musicbox-archipelago",
+          "ordinal": 13,
+          "title": "The Music Box at Low Tide",
+          "original": true,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "x-dream-origami-tide",
+          "ordinal": 14,
+          "title": "The Paper Tide",
+          "original": true,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "x-dream-saturn-greenhouse",
+          "ordinal": 15,
+          "title": "The Conservatory at the Edge of Saturn",
+          "original": true,
+          "draft": false,
+          "start": 60,
+          "end": 80
+        },
+        {
+          "id": "x-dream-stained-glass-dunes",
+          "ordinal": 16,
+          "title": "The Desert Remembers Every Window",
+          "original": true,
+          "draft": false,
+          "start": 80,
+          "end": 100
+        },
+        {
+          "id": "x-field-basalt-organ",
+          "ordinal": 17,
+          "title": "The Basalt Organ at First Light",
+          "original": true,
+          "draft": false,
+          "start": 100,
+          "end": 120
+        },
+        {
+          "id": "x-field-fossil-city",
+          "ordinal": 18,
+          "title": "The City Inside an Ammonite",
+          "original": true,
+          "draft": false,
+          "start": 120,
+          "end": 140
+        }
+      ],
+      "sourceBytes": 86099660,
+      "sourceSha256": "0137ea573f15abea3bcd6c35a5810442538aeba0f6e885b32aa96aad7111a936",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 4,
+      "file": "portals-all-worlds-part-004.mp4",
+      "bytes": 57951796,
+      "sha256": "6a6b48cf8c38246accbc088bc6f85e782cfb0f744da8c703685c7af8c4cacbb2",
+      "duration": 180,
+      "audio": {
+        "peak": 0.1339120864868164,
+        "bad": 0,
+        "duration": 180
+      },
+      "group": "New original worlds",
+      "worlds": [
+        {
+          "id": "x-field-frost-cathedral",
+          "ordinal": 19,
+          "title": "The Cathedral Below Zero",
+          "original": true,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "x-field-strata-atlas",
+          "ordinal": 20,
+          "title": "The Atlas of Folded Mountains",
+          "original": true,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "x-sci-chemical-garden",
+          "ordinal": 21,
+          "title": "The Chemical Garden Counts to Three",
+          "original": true,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "x-sci-computing-city",
+          "ordinal": 22,
+          "title": "The City That Computes Itself",
+          "original": true,
+          "draft": false,
+          "start": 60,
+          "end": 80
+        },
+        {
+          "id": "x-sci-gyroid-cathedral",
+          "ordinal": 23,
+          "title": "A Cathedral With No Straight Walls",
+          "original": true,
+          "draft": false,
+          "start": 80,
+          "end": 100
+        },
+        {
+          "id": "x-sci-interference-sea",
+          "ordinal": 24,
+          "title": "The Sea That Cannot Decide",
+          "original": true,
+          "draft": false,
+          "start": 100,
+          "end": 120
+        },
+        {
+          "id": "x-sci-lagrange-orchard",
+          "ordinal": 25,
+          "title": "The Orchard at Lagrange One",
+          "original": true,
+          "draft": false,
+          "start": 120,
+          "end": 140
+        },
+        {
+          "id": "x-sci-lightcone-cathedral",
+          "ordinal": 26,
+          "title": "The Cathedral of Light Cones",
+          "original": true,
+          "draft": false,
+          "start": 140,
+          "end": 160
+        },
+        {
+          "id": "x-sci-logarithm-sheets",
+          "ordinal": 27,
+          "title": "Every Turn Is Another Sheet",
+          "original": true,
+          "draft": false,
+          "start": 160,
+          "end": 180
+        }
+      ],
+      "sourceBytes": 82771292,
+      "sourceSha256": "b751128d88c2a0c7efad84e3797e58c9c1063258cdf28fc4ff2eac8779c3a2c5",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 5,
+      "file": "portals-all-worlds-part-005.mp4",
+      "bytes": 47883728,
+      "sha256": "1b4c83f8cf6f6bc8ea7ab1f5803b71ece54836afd3d23bcc5a0c6d0ddb0c22f8",
+      "duration": 120,
+      "audio": {
+        "peak": 0.13408875465393066,
+        "bad": 0,
+        "duration": 120
+      },
+      "group": "New original worlds",
+      "worlds": [
+        {
+          "id": "x-sci-lorenz-weather",
+          "ordinal": 28,
+          "title": "A Butterfly Made of Weather",
+          "original": true,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "x-sci-magnetar-clock",
+          "ordinal": 29,
+          "title": "The Magnetar Keeps Time",
+          "original": true,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "x-sci-mandelbrot-coast",
+          "ordinal": 30,
+          "title": "The Coastline Has No Last Detail",
+          "original": true,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "x-sci-mycelium-post",
+          "ordinal": 31,
+          "title": "The Mycelium Has a Postal Service",
+          "original": true,
+          "draft": false,
+          "start": 60,
+          "end": 80
+        },
+        {
+          "id": "x-sci-quasicrystal-palace",
+          "ordinal": 32,
+          "title": "The Palace That Refuses to Repeat",
+          "original": true,
+          "draft": false,
+          "start": 80,
+          "end": 100
+        },
+        {
+          "id": "x-sci-ribosome-foundry",
+          "ordinal": 33,
+          "title": "The Ribosome Foundry",
+          "original": true,
+          "draft": false,
+          "start": 100,
+          "end": 120
+        }
+      ],
+      "sourceBytes": 74298096,
+      "sourceSha256": "8cae055b6cd7e8567bfa7fc35afef9ac9248f63ee42f42ca95ded4db7795d98e",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 6,
+      "file": "portals-all-worlds-part-006.mp4",
+      "bytes": 28134218,
+      "sha256": "b50a57f36a89598a53ca502c54aa06b71c379dd7fa6b6679a9f33162f7da7143",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13287581503391266,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "across-the-sea-of-ice",
+          "ordinal": 34,
+          "title": "Across the Sea of Ice",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "after-rain-the-whales",
+          "ordinal": 35,
+          "title": "Whales Down the Avenue",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "after-the-sixth-sun",
+          "ordinal": 36,
+          "title": "After the Sixth Sun",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72647927,
+      "sourceSha256": "781f1d8b08cbd757ad6cfa6782224bbfbbb92fcfab422339a9ec5adac0623192",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 7,
+      "file": "portals-all-worlds-part-007.mp4",
+      "bytes": 28322426,
+      "sha256": "09e2d99e1bbd1a0fcb3edb9aec935be69572669697b95b160304aff25889e562",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12529020011425018,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "airbrush-black-hole",
+          "ordinal": 37,
+          "title": "The Airbrushed Abyss (violet edition)",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "airship-shed-dawn",
+          "ordinal": 38,
+          "title": "Walking Out the Airship",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "alpenglow-horn",
+          "ordinal": 39,
+          "title": "Alpenglow",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 76703834,
+      "sourceSha256": "1c37f13533b797ef3f76de6fd2756f6af4d9d14ac43662c685b5602c642879dd",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 8,
+      "file": "portals-all-worlds-part-008.mp4",
+      "bytes": 28191858,
+      "sha256": "6b07df27f2105d0e6c3830a3ec4ee3ef950005b7bf4b5d85e32ae90b288ed1b7",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13441260159015656,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "amber-reticulum",
+          "ordinal": 40,
+          "title": "River with a Pulse",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "asgard-bridge-of-light",
+          "ordinal": 41,
+          "title": "The Golden City and Its Bridge",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "atlantic-falls-in",
+          "ordinal": 42,
+          "title": "Where the Sea Ends · 5.33 million years ago",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 80338271,
+      "sourceSha256": "806beacff134246e2ede59fb6a90d24c9babf3015c9218ff72025f99faaa8350",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 9,
+      "file": "portals-all-worlds-part-009.mp4",
+      "bytes": 28075333,
+      "sha256": "228cf19bf272b2fd3c2f2e0747bb6317ca6143f73bbc540a2e7695e29b409355",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13147787749767303,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "atoll-pass-shark-wall",
+          "ordinal": 43,
+          "title": "Shark Pass",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "attic-railway",
+          "ordinal": 44,
+          "title": "The Attic Line",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "aurora-fjord",
+          "ordinal": 45,
+          "title": "Aurora Fjord",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 76169965,
+      "sourceSha256": "5c3f3c0488bab672c2de20763e3891858b6f9aa2bc4cea731ca0722a6fff036c",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 10,
+      "file": "portals-all-worlds-part-010.mp4",
+      "bytes": 27264284,
+      "sha256": "6e691ae01b5b92a68bde50a0c16020bfcc1390f97b4e3ba14ee1b12710590926",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12813718616962433,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "azulejo-descent",
+          "ordinal": 46,
+          "title": "The Blue Tile Hill",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "back-to-us-above-the-fog",
+          "ordinal": 47,
+          "title": "Down Through the Fog",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "backlit-jade-range",
+          "ordinal": 48,
+          "title": "The Jade Range",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 71148588,
+      "sourceSha256": "ba857ebe58bf230cdabc89274041bbdb9ed89136461d1c869c56c97d617d00b0",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 11,
+      "file": "portals-all-worlds-part-011.mp4",
+      "bytes": 28639043,
+      "sha256": "a0df9d1aeb14adb3160524a21ab789387ae1f44997d6869b1933ab768e9b73fb",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12496282160282135,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "ball-inside-the-small-flat",
+          "ordinal": 49,
+          "title": "Small Flat with Ballroom",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "bamboo-surf",
+          "ordinal": 50,
+          "title": "The Bamboo Sea",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "banyan-homecoming",
+          "ordinal": 51,
+          "title": "The Tree That Is a Forest",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 87872016,
+      "sourceSha256": "0d621d273d802f19c8b5c3eeb614434c3d1259b6e57cf4bc1b915ca4c7bdabdd",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 12,
+      "file": "portals-all-worlds-part-012.mp4",
+      "bytes": 28537049,
+      "sha256": "c92b33e1154e15bd0e6643086ab531ab6729c5f83030064862ea41c08e6345fb",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12983644008636475,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "bare-oilcloth-night",
+          "ordinal": 52,
+          "title": "The Bear at the Feast",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "basalt-organ-cave",
+          "ordinal": 53,
+          "title": "The Organ Cave",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "batik-monsoon",
+          "ordinal": 54,
+          "title": "Mega Mendung: Bang-Bangan",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 85520897,
+      "sourceSha256": "31cd3dece97193a1cc30b4846129f3bc6d1f2b07526c1e3742689bd12934e179",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 13,
+      "file": "portals-all-worlds-part-013.mp4",
+      "bytes": 28453173,
+      "sha256": "9b4cfc9b71c1f121b57a16e68abdf77204425de3712fa13da8d13a96d6e7793a",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1290276199579239,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "beaded-sea",
+          "ordinal": 55,
+          "title": "The Beaded Sea",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "bed-went-walking",
+          "ordinal": 56,
+          "title": "The Bed Went Walking",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "bells-before-breakfast",
+          "ordinal": 57,
+          "title": "A Hundred Bells Below Stairs",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 87352051,
+      "sourceSha256": "ff04a6400acc9c6818e4cf4384de703370fd8f43e0a3a045fa1a76ac739b7b5b",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 14,
+      "file": "portals-all-worlds-part-014.mp4",
+      "bytes": 28314360,
+      "sha256": "0faae81a341cd578925bfc7a374ac1bddf3e0d6901239ffef6e150156899b0b5",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12472749501466751,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "blown-city",
+          "ordinal": 58,
+          "title": "The Blown City",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "blue-cities-in-glass-globes",
+          "ordinal": 59,
+          "title": "Fedora, the Cities It Might Have Been",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "blue-city-holi",
+          "ordinal": 60,
+          "title": "The Colour Run: First Sun",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 82922515,
+      "sourceSha256": "74ba88caa706026b4c661cb4383a0343e5a539cde00be0ebba265e38c2122e15",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 15,
+      "file": "portals-all-worlds-part-015.mp4",
+      "bytes": 28413162,
+      "sha256": "de4ca5fff63bec6bbf0b7e355aa5ed58196fedbdb0214b5206a87910d4bf0e01",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13016606867313385,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "blue-fire-crater",
+          "ordinal": 61,
+          "title": "Sulphur Burns Blue",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "blue-riband-poster",
+          "ordinal": 62,
+          "title": "The Blue Riband: Morning Arrival",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "blue-sails-dry-sea",
+          "ordinal": 63,
+          "title": "Blue Sails on a Dry Sea",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 71904698,
+      "sourceSha256": "b3b55ac53fa0a852a3fc4b1bcc72656669ee7264382e9cf1c059a81e178e3b74",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 16,
+      "file": "portals-all-worlds-part-016.mp4",
+      "bytes": 28870733,
+      "sha256": "752c546742731fb66d34f52cf42f8de4f97b86daffbda11cc65092b01b020c7d",
+      "duration": 60,
+      "audio": {
+        "peak": 0.14087365567684174,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "boat-with-no-one-aboard",
+          "ordinal": 64,
+          "title": "The Boat with No One Aboard",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "boathouse-full-of-morning",
+          "ordinal": 65,
+          "title": "One Blue Box, Four Skies",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "boulders-that-walk",
+          "ordinal": 66,
+          "title": "The Walking Boulders · 30,000 years ago",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 79232184,
+      "sourceSha256": "5ac1b2a6ac5cd2c8b6173b4fdb1531307313cc97ab8e33d85fb15f651fbbb1b2",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 17,
+      "file": "portals-all-worlds-part-017.mp4",
+      "bytes": 28921484,
+      "sha256": "b8924ff294fee06c2852c89659d3cb7129822d3b3fce426a008975dde2758a72",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12255819141864777,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "breakfast-table",
+          "ordinal": 67,
+          "title": "Breakfast Kingdom",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "brick-outgrows-the-cloud",
+          "ordinal": 68,
+          "title": "Brick Above the Cloud",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "bridges-of-marigold",
+          "ordinal": 69,
+          "title": "Across on the Petals",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 71395235,
+      "sourceSha256": "ae654bff45801e00306cf6df0f1827dbad755f5d89c2210bfa63b0d798dc62e5",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 18,
+      "file": "portals-all-worlds-part-018.mp4",
+      "bytes": 28092076,
+      "sha256": "6998deb42c3e16cbbf91e6f0608ab631f3f1cf13befc059e5b22cb4e2ff477c2",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1383422613143921,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "brimstone-parasol",
+          "ordinal": 70,
+          "title": "Volcano Plume on an Airless Moon",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "brinicle-ice-finger",
+          "ordinal": 71,
+          "title": "The Ice Finger",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "bronze-walled-island",
+          "ordinal": 72,
+          "title": "Walled All Around in Bronze",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 80258121,
+      "sourceSha256": "99194f8c8e5758d755991ca6ef7048ed97629e1032468ef6aca4f5bed8289ff5",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 19,
+      "file": "portals-all-worlds-part-019.mp4",
+      "bytes": 28213379,
+      "sha256": "4b7adc1b665a12471525551a6ba5a17acac6f520a8dd9d1f08f6c69cd4568c24",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12615647912025452,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "bubble-skin",
+          "ordinal": 73,
+          "title": "Skin of a Bubble, Frost Morning",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "cables-to-the-moon",
+          "ordinal": 74,
+          "title": "Cables to the Moon",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "canyon-of-light",
+          "ordinal": 75,
+          "title": "Sunshafts in the Slot Canyon",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 83283250,
+      "sourceSha256": "4087e0678b92cf99219cfa83b8fbe2bfcd639bfe62b3ea560ee38325e5035845",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 20,
+      "file": "portals-all-worlds-part-020.mp4",
+      "bytes": 28231858,
+      "sha256": "1815209d7c1c2402d3c3d522df02619b057abb67f0c4aefd884582aa4c75c41b",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12580391764640808,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "canyon-of-three-airs",
+          "ordinal": 76,
+          "title": "Canyon of Three Airs: Lilac Tide",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "car-that-must-back-up",
+          "ordinal": 77,
+          "title": "Not Enough Engine",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "carded-moor",
+          "ordinal": 78,
+          "title": "Wool on the Thorn: The Rut",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 73052823,
+      "sourceSha256": "c1c9097c68921677d860b7173d19ac78d55aa0da66f512fa9990737adcd29e54",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 21,
+      "file": "portals-all-worlds-part-021.mp4",
+      "bytes": 28451604,
+      "sha256": "a5173f16a68d4de60c18f9510ff2e6167b8828f88b200510f48c1c2dac1b236f",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12725703418254852,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "carillon-grove",
+          "ordinal": 79,
+          "title": "The Carillon Grove, Night",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "carnival-on-the-frozen-river",
+          "ordinal": 80,
+          "title": "Carnival on the Frozen River",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "carousel-works",
+          "ordinal": 81,
+          "title": "The Carousel Works",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 74887610,
+      "sourceSha256": "11b6fd8a004342ccab27711fe6bf2676e9e390ac2ac9d14d469a75d05df01d3d",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 22,
+      "file": "portals-all-worlds-part-022.mp4",
+      "bytes": 28200590,
+      "sha256": "4f0a284a2d33acc9a38447455ccdce7ab3ee74cd6b01d426c9ee4095dc1c6d2c",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13007016479969025,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "carved-house-in-snow",
+          "ordinal": 82,
+          "title": "The Carved House at Harvest Dusk",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "cast-off-sound",
+          "ordinal": 83,
+          "title": "Cast Off: A Mohair Day",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "castle-before-the-tide",
+          "ordinal": 84,
+          "title": "Castle Before the Tide: Black Sand",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 75069739,
+      "sourceSha256": "6235c43f0798aaefa7d6ecbc385c031d680f249eab1f0cd18f4d092accdb8534",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 23,
+      "file": "portals-all-worlds-part-023.mp4",
+      "bytes": 28826936,
+      "sha256": "d330448d97c3c93909802b849ee97e8756416685da1d1453970db1e407e0df15",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1347014605998993,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "worlds": [
+        {
+          "id": "cell-highway",
+          "ordinal": 85,
+          "title": "The Inner Highway",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "chains-turned-to-stone",
+          "ordinal": 86,
+          "title": "What the Chains Decided: Evening",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "chamak-road",
+          "ordinal": 87,
+          "title": "The Chamak Road",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 79970792,
+      "sourceSha256": "d7fb693e185f6b63d22632daafbef6ea3e7a7a0a92dad682d2df38371ba046e3",
+      "videoEncoder": "h264_nvenc"
+    },
+    {
+      "part": 24,
+      "file": "portals-all-worlds-part-024.mp4",
+      "bytes": 28309488,
+      "sha256": "0e5c2a686f6674bce7241a392b5f0c5ffd3b0f3a321014cf6aef3c7b9e6d1461",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1390838623046875,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "chambered-sun",
+          "ordinal": 88,
+          "title": "The Chambered Sun",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "chandelier-city",
+          "ordinal": 89,
+          "title": "The Chandelier City, Blue Hour",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "checkerboard-approach",
+          "ordinal": 90,
+          "title": "Checkerboard Approach, last light",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 87869380,
+      "sourceSha256": "4e24dd504a6ce74c5cfdab7e7a56d413db574cbeb35ce7a88afee6c136400abf"
+    },
+    {
+      "part": 25,
+      "file": "portals-all-worlds-part-025.mp4",
+      "bytes": 28666973,
+      "sha256": "206343f435458f74694fa6d02f57b575c14f4a0abf09c1afbc1cebf482db7117",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13140150904655457,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "chinar-water-terraces",
+          "ordinal": 91,
+          "title": "The Chinar Terraces in April",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "city-closing-overhead",
+          "ordinal": 92,
+          "title": "Half the Town Overhead",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "city-doubled-in-its-lake",
+          "ordinal": 93,
+          "title": "Valdrada, the City Built Twice",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 90023448,
+      "sourceSha256": "2e91f0710dfb4bae257bb0fd4b17405b15cbccc706d3de3053586afaed19d174"
+    },
+    {
+      "part": 26,
+      "file": "portals-all-worlds-part-026.mp4",
+      "bytes": 28288949,
+      "sha256": "76eea2af0788e392541ef990ba36993929cd65fe89175ae4516b405e82674ae0",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13012254238128662,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "city-hung-below-its-net",
+          "ordinal": 94,
+          "title": "The City Hung Below Its Net",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "city-in-the-lake",
+          "ordinal": 95,
+          "title": "The City in the Lake",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "city-on-stilts-above-the-cloud",
+          "ordinal": 96,
+          "title": "The City on Stilts Above the Cloud, by Moonlight",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 85388223,
+      "sourceSha256": "1837a3d8adf2dc82d4e1caf9a6d09f01011c836a59b23ea6ae2ba4bbd0095644"
+    },
+    {
+      "part": 27,
+      "file": "portals-all-worlds-part-027.mp4",
+      "bytes": 38192819,
+      "sha256": "e1b52531fc4255a2073c9d89fd44d8b15b0b8a073c72d36efd83b5960e7fd716",
+      "duration": 80,
+      "audio": {
+        "peak": 0.13302592933177948,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "clipped-menagerie",
+          "ordinal": 97,
+          "title": "The Clipped Menagerie",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "cloisonne-typhoon",
+          "ordinal": 98,
+          "title": "The Gold-Wire Harbour by Lantern at New Year",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "cloud-armada",
+          "ordinal": 99,
+          "title": "The Cloud Armada",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "cloud-in-the-cave",
+          "ordinal": 100,
+          "title": "A Jungle Inside the Mountain",
+          "original": false,
+          "draft": false,
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 89023930,
+      "sourceSha256": "f290bc83e14ac7b13b90b25084e4a30bb4bb3990617725458cf7a90543f44ec3"
+    },
+    {
+      "part": 28,
+      "file": "portals-all-worlds-part-028.mp4",
+      "bytes": 10164272,
+      "sha256": "3c5913168e0227dce2410273117eea4ca84e6b5ba65ad5cebb9a513a24507cdf",
+      "duration": 20,
+      "audio": {
+        "peak": 0.13558177649974823,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "cloudburst-local",
+          "ordinal": 101,
+          "title": "The Cloudburst Local: Lamp-lighting",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 26900557,
+      "sourceSha256": "c7fe6cdc1e8a4e95e8a3de57f57a3a32fc59c0ed316a3cdfca2f9cf9e4156f85"
+    },
+    {
+      "part": 29,
+      "file": "portals-all-worlds-part-029.mp4",
+      "bytes": 28084944,
+      "sha256": "32bc11466abadd2ff527825002df7417b8f06945cd50f1c12c94cd435d17d81d",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12734708189964294,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "colossus-of-rhodes",
+          "ordinal": 102,
+          "title": "The Colossus of Rhodes",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "combed-sea",
+          "ordinal": 103,
+          "title": "The Combed Sea, Sun-Shower",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "comet-over-the-lake-town",
+          "ordinal": 104,
+          "title": "The Comet Comes Apart",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 70943929,
+      "sourceSha256": "787db41353584259c0c48ad748a39b27c9ab90b58fc1a1f4daac3abcb4e085b7"
+    },
+    {
+      "part": 30,
+      "file": "portals-all-worlds-part-030.mp4",
+      "bytes": 28303385,
+      "sha256": "747bdb5dbba2e2d758e42b05959cd268def2179686eae6df21e47267b58abc71",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12893341481685638,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "comet-perihelion",
+          "ordinal": 105,
+          "title": "Perihelion",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "corniche-120",
+          "ordinal": 106,
+          "title": "Corniche at 120 BPM, after midnight",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "coronal-rain",
+          "ordinal": 107,
+          "title": "Coronal Rain: Prominence Country",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 78864319,
+      "sourceSha256": "dc6ddca9a1a47df187aff217039e1249e7b4a07943a561c511b5696e19fa663a"
+    },
+    {
+      "part": 31,
+      "file": "portals-all-worlds-part-031.mp4",
+      "bytes": 27814940,
+      "sha256": "c587d0ebb38da8bb7a5ae6467562241d51100e0ae25894e796cccfa29baae4b2",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1319144070148468,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "country-in-squares",
+          "ordinal": 108,
+          "title": "A Great Huge Game of Chess",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "country-of-pins",
+          "ordinal": 109,
+          "title": "The Country of Pins, in Copper",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "country-with-no-up",
+          "ordinal": 110,
+          "title": "The Country with No Up",
+          "original": false,
+          "draft": false,
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 75887172,
+      "sourceSha256": "66615d08ca1a13c990ff540f847d59ca5b410246eca65ac53ce3c3f3de5e001b"
+    },
+    {
+      "part": 32,
+      "file": "portals-all-worlds-part-032.mp4",
+      "bytes": 19107521,
+      "sha256": "4c2e81a96ac1367ba8c015f090e4857050f96d86348a8a1d7a26c539854a7313",
+      "duration": 40,
+      "audio": {
+        "peak": 0.12939800322055817,
+        "bad": 0,
+        "duration": 40
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "courts-in-the-attics",
+          "ordinal": 111,
+          "title": "The Gate Meant for You Alone",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "crane-harbour",
+          "ordinal": 112,
+          "title": "The Morning Lift",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        }
+      ],
+      "sourceBytes": 54427495,
+      "sourceSha256": "935ee25c150f22d1a3fe240ab60dbeb011c7c3974ec346e0c7c8d2902a635848"
+    },
+    {
+      "part": 33,
+      "file": "portals-all-worlds-part-033.mp4",
+      "bytes": 9806922,
+      "sha256": "f58375cb7e1d3036b808ed653e5161c1c4c4c1e1f9a7db5bd13636eab11e702b",
+      "duration": 20,
+      "audio": {
+        "peak": 0.13400235772132874,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "cranes-in-steam",
+          "ordinal": 113,
+          "title": "Cranes in the Steam",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 21373054,
+      "sourceSha256": "bb92e3a51f4421d8252dbeddf940b930da830dc7c67fd26db68cbc39ff0f3477"
+    },
+    {
+      "part": 34,
+      "file": "portals-all-worlds-part-034.mp4",
+      "bytes": 18754461,
+      "sha256": "80175df73ffc16a5db64969e4c13cb471287f44f1c05fe16ddd92e92384cd826",
+      "duration": 40,
+      "audio": {
+        "peak": 0.12889061868190765,
+        "bad": 0,
+        "duration": 40
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "crayon-house",
+          "ordinal": 114,
+          "title": "My House, in Crayon (Rain)",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "crescent-over-yucatan",
+          "ordinal": 115,
+          "title": "The Growing Crescent · 66 million years ago",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        }
+      ],
+      "sourceBytes": 53454148,
+      "sourceSha256": "e7b0281068a28a393b22c1ef93415a39f8c8db28bcb27a4f4afc6cc04582e7b7"
+    },
+    {
+      "part": 35,
+      "file": "portals-all-worlds-part-035.mp4",
+      "bytes": 10031269,
+      "sha256": "0e7b71544f4ea0b9d607596e0ef976af12ecd42010abeb1f038dc2243189bd44",
+      "duration": 20,
+      "audio": {
+        "peak": 0.12351585179567337,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "curl-tree-winter",
+          "ordinal": 116,
+          "title": "The Wood of Shaved Cedar",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 26601470,
+      "sourceSha256": "8f3c51eaeea92ac2f49bc5e03acefb7a750849c656f456bd86990de2e06a466e"
+    },
+    {
+      "part": 36,
+      "file": "portals-all-worlds-part-036.mp4",
+      "bytes": 19185201,
+      "sha256": "8a709e7d0e62882405804972fd91898feb4cbc79a916504c6d27e44e1342916a",
+      "duration": 40,
+      "audio": {
+        "peak": 0.13116835057735443,
+        "bad": 0,
+        "duration": 40
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "cut-from-the-sky",
+          "ordinal": 117,
+          "title": "Cut from the Sky",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "cut-mountain",
+          "ordinal": 118,
+          "title": "The Cut Mountain, first light",
+          "original": false,
+          "draft": false,
+          "start": 20,
+          "end": 40
+        }
+      ],
+      "sourceBytes": 40427499,
+      "sourceSha256": "ad665fa2021adc0afedcef3ee21834d285f1a3ff3110807bbbe118081d8b1d1f"
+    },
+    {
+      "part": 37,
+      "file": "portals-all-worlds-part-037.mp4",
+      "bytes": 9443143,
+      "sha256": "89ffa191cd85492f5b4287a308fe9ada11ee0286057ab5d62801633b1e12c3be",
+      "duration": 20,
+      "audio": {
+        "peak": 0.12402064353227615,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "dawn-tracks-contrail",
+          "ordinal": 119,
+          "title": "A Contrail, Flown Backwards",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 17497703,
+      "sourceSha256": "baa5363350138468f8bc908d71acd9cd50773f89d5e900f2482d50a5dfce0ad7"
+    },
+    {
+      "part": 38,
+      "file": "portals-all-worlds-part-038.mp4",
+      "bytes": 10140624,
+      "sha256": "18b0f37fdade29ef14f2e80b4eac8a06f4b290425f949b847ca1054b2ee0e057",
+      "duration": 20,
+      "audio": {
+        "peak": 0.12603487074375153,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "deer-cave-exodus",
+          "ordinal": 120,
+          "title": "Three Million Bats",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 31375848,
+      "sourceSha256": "bb448cc70c9c13004bcbaa3a5a3b09e306e2a36e9aeda04fbd5c2ed861e98b55"
+    },
+    {
+      "part": 39,
+      "file": "portals-all-worlds-part-039.mp4",
+      "bytes": 28145289,
+      "sha256": "ede91b2774ac7c560ac0f6e5427bd60748b3d37aa459e906f7d8ae18da19f8a8",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13081024587154388,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "delta-in-flood",
+          "ordinal": 121,
+          "title": "Okavango in Flood",
+          "original": false,
+          "draft": false,
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "dew-garden",
+          "ordinal": 122,
+          "title": "A Ladybird Among the Dewdrops",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "dial-towers-at-dusk",
+          "ordinal": 123,
+          "title": "Ninety Bell Towers at Dusk",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 74250277,
+      "sourceSha256": "8c3ff706da9ef6de04e5411b0a3861d7986734139ce33bfd74fd0e229b0d3cd5"
+    },
+    {
+      "part": 40,
+      "file": "portals-all-worlds-part-040.mp4",
+      "bytes": 28849705,
+      "sha256": "5c671343acd2afdb42586364cf786d768b274eca5d4875a65aefdf5d1d51747b",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13946932554244995,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "doors-in-transit",
+          "ordinal": 124,
+          "title": "Where the Doors Are Kept",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "drafted-city",
+          "ordinal": 125,
+          "title": "The Drafted City",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "dragon-kite-loft",
+          "ordinal": 126,
+          "title": "The Hundred-Segment Dragon",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 84583532,
+      "sourceSha256": "e370c7190a68fc5d2860209f6de9da2387a042260afd77368d80c1ccf7ea0422"
+    },
+    {
+      "part": 41,
+      "file": "portals-all-worlds-part-041.mp4",
+      "bytes": 28383722,
+      "sha256": "e805911aef0404d3d88b311b0910f36f55d09a163626a22c6d4f31bc43acf741",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12627774477005005,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "dragons-blood-fog",
+          "ordinal": 127,
+          "title": "The Umbrella Forest",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "drawer-cliffs",
+          "ordinal": 128,
+          "title": "The Drawer Cliffs",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "drowned-domes",
+          "ordinal": 129,
+          "title": "The Drowned Domes",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 69314074,
+      "sourceSha256": "0fca12d8141f5df92e1bc22f9ccbc326b596abfc41de7e8b7bcfe9f15d856ec3"
+    },
+    {
+      "part": 42,
+      "file": "portals-all-worlds-part-042.mp4",
+      "bytes": 28186563,
+      "sha256": "aade5985acb21641cf5f20e68b559dd17c457c17181169dc545f8c14f50ce8a4",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13048237562179565,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "drowned-forest-lakes",
+          "ordinal": 130,
+          "title": "The Peacock Lakes",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "ember-moon-tide",
+          "ordinal": 131,
+          "title": "The Ember Moon · 4.5 billion years ago",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "emperor-clearing",
+          "ordinal": 132,
+          "title": "The Huddle",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72669111,
+      "sourceSha256": "5b457d9ca6eed8f75add7dba93b1afcceb3721e9d6f2bfa3faf354154b45e8e1"
+    },
+    {
+      "part": 43,
+      "file": "portals-all-worlds-part-043.mp4",
+      "bytes": 37412229,
+      "sha256": "74f3476710d5630c999e8305f5091c4ecf235ad3056f54e6a4a50c87d26c09f8",
+      "duration": 80,
+      "audio": {
+        "peak": 0.13123343884944916,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "engine-turned-sea",
+          "ordinal": 133,
+          "title": "Isles of Jewelled Eggs",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "engraved-sea-chart",
+          "ordinal": 134,
+          "title": "The Engraved Sea: First Proof",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "envelope-at-dawn",
+          "ordinal": 135,
+          "title": "The Envelope at Dawn",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "evening-is-the-beam-tipping",
+          "ordinal": 136,
+          "title": "Plywood Sky",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 88136256,
+      "sourceSha256": "6cd13dde57e027dabf9d0eace896704352ecb0537a3701d1d93eac4d0c61f966"
+    },
+    {
+      "part": 44,
+      "file": "portals-all-worlds-part-044.mp4",
+      "bytes": 28415515,
+      "sha256": "4bdacc09c151d5f237ec018804d79c6c07cb6672d350b1f4ad95b7238d55a7d3",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13342250883579254,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "every-last-wire",
+          "ordinal": 137,
+          "title": "Paperclips, As Requested",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "every-wingbeat-stays",
+          "ordinal": 138,
+          "title": "Every Wingbeat Stays",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "false-stars",
+          "ordinal": 139,
+          "title": "False Stars",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 69774055,
+      "sourceSha256": "d13792ab8cea22358e5242d22c32cb8cc7f163aa73204762d8b0c0d2687c898d"
+    },
+    {
+      "part": 45,
+      "file": "portals-all-worlds-part-045.mp4",
+      "bytes": 28355683,
+      "sha256": "9dbec87b6b6a142f55737cf9085eb509bc3aec25a1ad15b7582d31fb950a02c3",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12858660519123077,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "fern-sea-midnight",
+          "ordinal": 140,
+          "title": "The Green Arctic Sea · 49 million years ago",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "field-in-thick-paint",
+          "ordinal": 141,
+          "title": "The Field in Thick Paint",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "field-of-doors",
+          "ordinal": 142,
+          "title": "The Field of Doors",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 76911750,
+      "sourceSha256": "bee82745b259e31999517eeadda391c4b52f4ee0bd5a5c671acb6461edc893bd"
+    },
+    {
+      "part": 46,
+      "file": "portals-all-worlds-part-046.mp4",
+      "bytes": 28024652,
+      "sha256": "7fb18db8aa3a15bc5894ae53a0802b06b77d77734474961eca1ed2e585c1aac9",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13463462889194489,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "fields-of-gazing-grain",
+          "ordinal": 143,
+          "title": "We Passed the Fields of Gazing Grain",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "figure-and-ground",
+          "ordinal": 144,
+          "title": "Figure and Ground, rain edition",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "fire-in-the-sand-sea",
+          "ordinal": 145,
+          "title": "The Sand Sea Drowns · 134 million years ago",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 73360981,
+      "sourceSha256": "199bd6738e7eba55ba53af8be7cd7f61d767bd513490fd42f0643844fecff591"
+    },
+    {
+      "part": 47,
+      "file": "portals-all-worlds-part-047.mp4",
+      "bytes": 28708557,
+      "sha256": "0e0c562277824a45af46ea499400a26952209a62c032136193c3735edb3dd02c",
+      "duration": 60,
+      "audio": {
+        "peak": 0.11955911666154861,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "fireworks-under-the-wash",
+          "ordinal": 146,
+          "title": "Fireworks in Wax and Ink",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "first-rain-palace",
+          "ordinal": 147,
+          "title": "Palace of the First Rain: Rose Dawn",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "first-rain-stepwell",
+          "ordinal": 148,
+          "title": "The Thousand-Stair Rain",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 90069235,
+      "sourceSha256": "51e9e59bb62f35a7c098659a443e357280072cb27f8841418dc34d2ee337aec5"
+    },
+    {
+      "part": 48,
+      "file": "portals-all-worlds-part-048.mp4",
+      "bytes": 28846233,
+      "sha256": "60850a1fdd192b5e9123083cc67eb8e5f0a0bb808b241d2f3ffd5ab68b221d71",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1406569480895996,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "first-snow-on-kraft",
+          "ordinal": 149,
+          "title": "First Snow on Chocolate Paper",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "five-colour-river",
+          "ordinal": 150,
+          "title": "River of Five Colours",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "flavian-amphitheatre",
+          "ordinal": 151,
+          "title": "The Colosseum at Its Opening Games",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 87538792,
+      "sourceSha256": "b711c70b3bfb8a8894703b1cea2bf25f1e395b9eb0b24a7e56ac4a7b3c2f8762"
+    },
+    {
+      "part": 49,
+      "file": "portals-all-worlds-part-049.mp4",
+      "bytes": 28206083,
+      "sha256": "7b6554df0a6014a4cd3bb5251b7313c09194b53f429b2517ebbe691431e177a5",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12704837322235107,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "fleet-in-six-wools",
+          "ordinal": 152,
+          "title": "Under the Long-Haired Star",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "flinching-forest",
+          "ordinal": 153,
+          "title": "The Flinching Forest, Saffron Day",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "floor-without-windows",
+          "ordinal": 154,
+          "title": "The Floor Without Windows",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 77558209,
+      "sourceSha256": "2f2932b50eaf70cc3b59a6c2d4896d337f13d8bc575fa423688a6f3974dc7e4e"
+    },
+    {
+      "part": 50,
+      "file": "portals-all-worlds-part-050.mp4",
+      "bytes": 28932920,
+      "sha256": "88b88ae804fac8ca133d22cce9fd628f80e6095a03c077d30a72445ac7765cdc",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13055965304374695,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "flying-boat-karst-bay",
+          "ordinal": 155,
+          "title": "Flying Boat Bay",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "fog-river-bridge",
+          "ordinal": 156,
+          "title": "The Bridge in the Fog River, first light",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "fogged-palm-house",
+          "ordinal": 157,
+          "title": "The Fogged Palm House",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 73475733,
+      "sourceSha256": "cfcd4dc326694ae5cd39ceb045eaf1e8ebfc7d2af7e32e3b74bc7f9eb3c47bda"
+    },
+    {
+      "part": 51,
+      "file": "portals-all-worlds-part-051.mp4",
+      "bytes": 28627484,
+      "sha256": "6669727c8a968eac796b16173a1aa13cb44e27d88dcf3b98e5e5ac6876230224",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13159282505512238,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "folding-market",
+          "ordinal": 158,
+          "title": "The Folding Market (Festival Day)",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "forest-from-a-drop",
+          "ordinal": 159,
+          "title": "Raindrop Trees",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "forest-tied-from-above",
+          "ordinal": 160,
+          "title": "Macramé Forest",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72575843,
+      "sourceSha256": "d9abb58d1ba3ff6d50eedb1bab480b90096ac4588f838d9a0a9491c566e0d3ca"
+    },
+    {
+      "part": 52,
+      "file": "portals-all-worlds-part-052.mp4",
+      "bytes": 28213015,
+      "sha256": "d6d1f7ad556284ca87d078cf2de88e688fb60316d8cb9a641c63f1c5900038d7",
+      "duration": 60,
+      "audio": {
+        "peak": 0.127776637673378,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "forty-four-sunsets",
+          "ordinal": 161,
+          "title": "Small Planet, Empty Chair",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "four-colour-launch",
+          "ordinal": 162,
+          "title": "Launch Row, Evening Edition",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "four-stone-kings-over-the-river",
+          "ordinal": 163,
+          "title": "Four Stone Kings over the River",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 70533657,
+      "sourceSha256": "9c1d52ad52716da66a2dc64151bb06fa58742df19fdcae4fe59db261ecd5f2d0"
+    },
+    {
+      "part": 53,
+      "file": "portals-all-worlds-part-053.mp4",
+      "bytes": 28564633,
+      "sha256": "20d1fd0f5e06700a924c33a21ec8c30c631144c2b1d73b9fdcb4658293bac03b",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13763585686683655,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "frieze-without-end",
+          "ordinal": 164,
+          "title": "The Frieze Without End",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "frozen-weather-museum",
+          "ordinal": 165,
+          "title": "Museum of Frozen Weather",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "gale-in-green-glass",
+          "ordinal": 166,
+          "title": "Gale in Green Glass",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 68547517,
+      "sourceSha256": "24a7deb159a34f7dac94b47cbd07d4a84fe3e62b7be4906cbe77bb7725907108"
+    },
+    {
+      "part": 54,
+      "file": "portals-all-worlds-part-054.mp4",
+      "bytes": 28877249,
+      "sha256": "ff35e16c5d4293f129a8021c0ffb5bf97ad6df376070c007351a7258e22355d7",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12802456319332123,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "galimoto-yard",
+          "ordinal": 167,
+          "title": "Galimoto, Early",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "galleon-in-the-flowers",
+          "ordinal": 168,
+          "title": "The Galleon Among the Flowers",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "gannet-stack-gale",
+          "ordinal": 169,
+          "title": "White with Gannets",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 85949475,
+      "sourceSha256": "793c4918156cc4ed0771fabaad6415337b8bd498d6a5285c91a96b904575e9a0"
+    },
+    {
+      "part": 55,
+      "file": "portals-all-worlds-part-055.mp4",
+      "bytes": 28862820,
+      "sha256": "6a794f0abce6a16fa6e7abab88f04892d7ed447e3579db33bb4a76c13655b3c9",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1246018037199974,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "garden-behind-the-ivy-wall",
+          "ordinal": 170,
+          "title": "The Door Under the Ivy",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "garden-carpet",
+          "ordinal": 171,
+          "title": "The Garden Underfoot, before Dawn",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "garden-in-plan",
+          "ordinal": 172,
+          "title": "Garden on an Egyptian Wall",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 84781993,
+      "sourceSha256": "b1772b2859c6900380186e9aab1b6113061e599652b2ac1fd47a24af68136592"
+    },
+    {
+      "part": 56,
+      "file": "portals-all-worlds-part-056.mp4",
+      "bytes": 28814647,
+      "sha256": "e7edbffe3d9a849625bb798fd545c04bfb27e808dc1342482d2eaef0d904531b",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12340042740106583,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "garden-of-sixty-gardens",
+          "ordinal": 173,
+          "title": "The Garden of Sixty Gardens: April",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "garden-upside-down",
+          "ordinal": 174,
+          "title": "The Garden Upside Down",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "gates-in-the-snow",
+          "ordinal": 175,
+          "title": "The Gates in the Snow",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 75540543,
+      "sourceSha256": "03b69ad194718842fdf31eedc45402239b05723c445111006b8148b0136fcdbd"
+    },
+    {
+      "part": 57,
+      "file": "portals-all-worlds-part-057.mp4",
+      "bytes": 28257803,
+      "sha256": "f89656173265c42e5963d64a61727b2b35fd440d39784b0243632e6ac19ff8b7",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12622569501399994,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "geode-run",
+          "ordinal": 176,
+          "title": "The Geode Run",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "gilded-margin",
+          "ordinal": 177,
+          "title": "The Gilded Margin",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "glass-nave",
+          "ordinal": 178,
+          "title": "Up to the Rose Window",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 71265086,
+      "sourceSha256": "185c1bc1196a660a6c150b7f9d5b3b2828349cf05d3f92fa2d23ab8f012588c2"
+    },
+    {
+      "part": 58,
+      "file": "portals-all-worlds-part-058.mp4",
+      "bytes": 28259030,
+      "sha256": "705c20b5c17ae1d74638f39d71aa007f49319c424a8378c3f09db06c2e2c3e84",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1281040906906128,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "glass-painted-fleet",
+          "ordinal": 179,
+          "title": "The Fleet Under Glass",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "glaze-stops-at-the-knees",
+          "ordinal": 180,
+          "title": "The Glaze Stops at the Knees",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "glider-country",
+          "ordinal": 181,
+          "title": "Glider Country",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 64740790,
+      "sourceSha256": "6f8796d01143609aa0a33ada88c67b35bfa3657d937e58a9b667b9cfc21b6b88"
+    },
+    {
+      "part": 59,
+      "file": "portals-all-worlds-part-059.mp4",
+      "bytes": 28978964,
+      "sha256": "362d5baabf8cb65988676b58022dc6325f30cfe669996a5e04ce554e4c5c930c",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13537536561489105,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "glowwood",
+          "ordinal": 182,
+          "title": "Under the Fibre-Optic Willow",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "great-refractor",
+          "ordinal": 183,
+          "title": "The Moth and the Telescope",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "green-gate-past-the-poppies",
+          "ordinal": 184,
+          "title": "The Road Through the Poppies",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 79938500,
+      "sourceSha256": "a2fb9b585aea93c69fae96eab7ef6db032d78886d72809628e42ba6fa4b80f1d"
+    },
+    {
+      "part": 60,
+      "file": "portals-all-worlds-part-060.mp4",
+      "bytes": 28067490,
+      "sha256": "9e305d6d206575e60d11b4735c17623fb39297ff1c40d6969faf0a19d9d68270",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12180823087692261,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "green-with-the-rain",
+          "ordinal": 185,
+          "title": "Green with the Rain",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "groundswell-country",
+          "ordinal": 186,
+          "title": "The Groundswell",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "hail-cathedral",
+          "ordinal": 187,
+          "title": "The Hail Cathedral",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72263407,
+      "sourceSha256": "6dfa02fcaae5f6c8c35e16097354029c874fecf7a6d3f45ac33b184759a8d3d7"
+    },
+    {
+      "part": 61,
+      "file": "portals-all-worlds-part-061.mp4",
+      "bytes": 37283003,
+      "sha256": "d90c7cb37ce24e4bf01b89b80d7a0582a0a00ca8dfeb65a26bf7f75d91207679",
+      "duration": 80,
+      "audio": {
+        "peak": 0.14564752578735352,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "half-city-of-the-fair",
+          "ordinal": 188,
+          "title": "Sophronia, Palaces on Wagons",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "half-coloured-regatta",
+          "ordinal": 189,
+          "title": "Prizes for Going in Circles",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "hall-of-strings",
+          "ordinal": 190,
+          "title": "Hall of Strings: Rehearsal",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "hall-roofed-with-weather",
+          "ordinal": 191,
+          "title": "A Hall Roofed with Weather",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 86225235,
+      "sourceSha256": "1cebca0bdc4bbbb0af56d0bcc47a6de37b8fdb9c6781738ed73e51df53dadaad"
+    },
+    {
+      "part": 62,
+      "file": "portals-all-worlds-part-062.mp4",
+      "bytes": 28838543,
+      "sha256": "b6e3b3de39dfbe37d61d1195c8ae75c90fc7281ade7c8b620175d98407cd1c0e",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12260165065526962,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "halls-between-sea-and-cloud",
+          "ordinal": 192,
+          "title": "The Halls Between Sea and Cloud",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "hammam-of-stars",
+          "ordinal": 193,
+          "title": "Hammam of Stars",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "hands-in-the-painted-cave",
+          "ordinal": 194,
+          "title": "Count the Fingers",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 73635893,
+      "sourceSha256": "aaafe6512ce1d54e98b9f4a71c9afff868f8d37a520d63aa3f160a79dcfcbc21"
+    },
+    {
+      "part": 63,
+      "file": "portals-all-worlds-part-063.mp4",
+      "bytes": 28397902,
+      "sha256": "6848387b8e53bebfb7eb483542f14209051047945e889197b8b9f647dd2cc48c",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1341060996055603,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "hanging-gardens-of-babylon",
+          "ordinal": 195,
+          "title": "The Hanging Gardens of Babylon",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "hanging-sea-lilies",
+          "ordinal": 196,
+          "title": "The Hanging Meadow · 182 million years ago",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "harbour-in-the-aurora",
+          "ordinal": 197,
+          "title": "Palms Beyond the Pack Ice",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 74003883,
+      "sourceSha256": "105364e2aef834aa96ffe625662394ca5c81b362fb41e8474f4281e21ec0ae4e"
+    },
+    {
+      "part": 64,
+      "file": "portals-all-worlds-part-064.mp4",
+      "bytes": 37759623,
+      "sha256": "7f671b2e56d129b9bde22192feed1e33e3d73e3f2501782549cd76a8964cd415",
+      "duration": 80,
+      "audio": {
+        "peak": 0.12763161957263947,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "harbour-of-one-lamp",
+          "ordinal": 198,
+          "title": "The Harbour of One Lamp",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "harvest-in-profile",
+          "ordinal": 199,
+          "title": "Harvest in Profile",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "heavy-things-on-a-sheet",
+          "ordinal": 200,
+          "title": "Heavy Things on a Sheet",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "hill-of-round-doors",
+          "ordinal": 201,
+          "title": "The Hill of Round Doors",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 85897686,
+      "sourceSha256": "f4ec21a68036e0cd9b0bb6b072d3c0c3e93972b3ee16a6a60cc2402fff165db3"
+    },
+    {
+      "part": 65,
+      "file": "portals-all-worlds-part-065.mp4",
+      "bytes": 28931848,
+      "sha256": "1c59695c610a087abb65c26b65cd7aa55b54f666e5c0e5da47983f17f5e887da",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12927335500717163,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "hollow-of-the-wave",
+          "ordinal": 202,
+          "title": "Inside the Great Wave",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "honey-cliff",
+          "ordinal": 203,
+          "title": "The Honey Cliff above the Cloud",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "hoopwind-flats",
+          "ordinal": 204,
+          "title": "Hoopwind",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 74357792,
+      "sourceSha256": "56fd515e9fe7ce5a378b202bd5b170abef8a0902047364b65fc41d196103be58"
+    },
+    {
+      "part": 66,
+      "file": "portals-all-worlds-part-066.mp4",
+      "bytes": 28909316,
+      "sha256": "15c1062cfa6edcf6ac9209e94c68d88815865130338f7ec764d6cc77cf1aecd2",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13083061575889587,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "house-behind-the-waterfall",
+          "ordinal": 205,
+          "title": "Behind the Waterfall",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "house-in-the-niche",
+          "ordinal": 206,
+          "title": "House Inside a House",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "house-of-four-seasons",
+          "ordinal": 207,
+          "title": "The House of Four Seasons",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 79769267,
+      "sourceSha256": "b43aa31946a0e0d140b7ec93a8b5adb4fdc66c8ccb706656b79017e7ad3bf86f"
+    },
+    {
+      "part": 67,
+      "file": "portals-all-worlds-part-067.mp4",
+      "bytes": 28634630,
+      "sha256": "6d21812bdbe156c23e6f31e40cbca766511959af7d2018a366250ae81fbdca0a",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13244061172008514,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "house-opens-seaward",
+          "ordinal": 208,
+          "title": "The House That Opens to the Sea",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "houses-on-strings",
+          "ordinal": 209,
+          "title": "Houses on Strings",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "hull-in-frames",
+          "ordinal": 210,
+          "title": "Ribs of the Unfinished Ship, Between Showers",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 81143457,
+      "sourceSha256": "69976a6bef63bf0ee8bd235e21c16fd3cda823c25bccf510aedd869ed3ece782"
+    },
+    {
+      "part": 68,
+      "file": "portals-all-worlds-part-068.mp4",
+      "bytes": 19196851,
+      "sha256": "560b6b87f7b76f5788be270245581dc3c560494d18ba543f0a741fd45ecd84e9",
+      "duration": 40,
+      "audio": {
+        "peak": 0.1308676302433014,
+        "bad": 0,
+        "duration": 40
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "hull-town",
+          "ordinal": 211,
+          "title": "Where Ships Go to Live",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "hundred-layer-red",
+          "ordinal": 212,
+          "title": "Carved in Red Lacquer",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        }
+      ],
+      "sourceBytes": 48807272,
+      "sourceSha256": "cfcb3ab7eb1cb51f10e8561e87d6b7d073831799f18b6020dd9fdb6db576c09b"
+    },
+    {
+      "part": 69,
+      "file": "portals-all-worlds-part-069.mp4",
+      "bytes": 10243140,
+      "sha256": "ebfbf8e91f929c02f6064134a4a467c76b966e7253b7b4ac5269abb2dacaae5a",
+      "duration": 20,
+      "audio": {
+        "peak": 0.12959249317646027,
+        "bad": 0,
+        "duration": 20
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "ice-arcade",
+          "ordinal": 213,
+          "title": "The Glass Birches",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "sourceBytes": 31461880,
+      "sourceSha256": "02b096e2bc248a4a64aec51950c3739e75def146c8c2594b93ae99e63efd99e5"
+    },
+    {
+      "part": 70,
+      "file": "portals-all-worlds-part-070.mp4",
+      "bytes": 28266970,
+      "sha256": "534c2497116b59407be8280cc5d6cfb0252fdadda0c37fca04959acc3e700d96",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1270831674337387,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "indigo-pits",
+          "ordinal": 214,
+          "title": "The Blue Yard",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "ink-dragon",
+          "ordinal": 215,
+          "title": "Mountains of Wet Ink",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "inside-out-world",
+          "ordinal": 216,
+          "title": "The Inside-Out World",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 68212117,
+      "sourceSha256": "7f0cad853bab2a2b452a0a66b7cdd71ba836b190bd00a16e9e1acd55f83c691d"
+    },
+    {
+      "part": 71,
+      "file": "portals-all-worlds-part-071.mp4",
+      "bytes": 28189382,
+      "sha256": "f2d3d074c438ce319274a21c031254c90d0ade7a744c51fda6b05f4bf508623a",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1260080635547638,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "iron-tide",
+          "ordinal": 217,
+          "title": "The Iron Tide",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "iron-tower-first-night",
+          "ordinal": 218,
+          "title": "The Eiffel Tower by Gaslight",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "island-being-born",
+          "ordinal": 219,
+          "title": "The Island Being Born",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 76623526,
+      "sourceSha256": "0a9f7710441a88e1ae6a0ce4f71b5feb82a97767d5fee2997102f1d49bb75780"
+    },
+    {
+      "part": 72,
+      "file": "portals-all-worlds-part-072.mp4",
+      "bytes": 37587248,
+      "sha256": "1f4ca72504faad2a2fcfde2a26192b3906b0004ebc2eb75ca109422bc0c69739",
+      "duration": 80,
+      "audio": {
+        "peak": 0.12911437451839447,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "island-that-shades-the-fields",
+          "ordinal": 220,
+          "title": "An Island in the Air",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "islands-in-custard",
+          "ordinal": 221,
+          "title": "The Floating Islands",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "isle-of-broken-towers",
+          "ordinal": 222,
+          "title": "The Isle of Broken Towers",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "jungle-he-never-saw",
+          "ordinal": 223,
+          "title": "The Jungle He Never Saw",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 86552488,
+      "sourceSha256": "36840076f306dc97f7a1f19d14d5d93b62f7433b2cbf65a21715e80855c69619"
+    },
+    {
+      "part": 73,
+      "file": "portals-all-worlds-part-073.mp4",
+      "bytes": 28126113,
+      "sha256": "81273a54acdd327052a55b8564029d22b6b930814271bc14fdc42b1c3bb73944",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1304720640182495,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "kelp-cathedral",
+          "ordinal": 224,
+          "title": "Kelp Cathedral",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "khlong-run",
+          "ordinal": 225,
+          "title": "The Khlong Run",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "knee-deep-under-the-wave",
+          "ordinal": 226,
+          "title": "Knee-Deep Under the Wave",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 77170681,
+      "sourceSha256": "84ddd371bb09667aafb0ffd53df12591af5a92dbc1ceb4d9ed81bb7e7543a5ac"
+    },
+    {
+      "part": 74,
+      "file": "portals-all-worlds-part-074.mp4",
+      "bytes": 28394827,
+      "sha256": "66872f268dd972432cfa94d44bc71261ed2235581791e7cb0c64de5c34a40f19",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13328954577445984,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "knotted-river",
+          "ordinal": 227,
+          "title": "The River Tied in a Knot",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "kohbar-lotus-room",
+          "ordinal": 228,
+          "title": "The Lotus Room, Grey Morning",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "kolam-at-dawn",
+          "ordinal": 229,
+          "title": "Kolam at Dawn",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 73819357,
+      "sourceSha256": "f8db851e3f77273d220f1b642e8f63d6dd032a0d9db0729b489b409a5c3e6714"
+    },
+    {
+      "part": 75,
+      "file": "portals-all-worlds-part-075.mp4",
+      "bytes": 28149598,
+      "sha256": "ff4f3defce07438173b74267b90a2398fc8016db084b40d6d5280208d66999dc",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12365658581256866,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "kurbits-night",
+          "ordinal": 230,
+          "title": "The Night the Kurbits Grew",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "ladder-orchard",
+          "ordinal": 231,
+          "title": "The Ladder Orchard, Night",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "lake-comes-down-in-curls",
+          "ordinal": 232,
+          "title": "The Lake Comes Down in Curls",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 65823721,
+      "sourceSha256": "98654748debc883848e12be91aa85a621d05b70d7216a1408a3d596eef945580"
+    },
+    {
+      "part": 76,
+      "file": "portals-all-worlds-part-076.mp4",
+      "bytes": 28200725,
+      "sha256": "f7a1b655cfce62cb5eabe3b8ad88ee8d5d4b33ec9f2ef9320601eb3896a7c9f4",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13048602640628815,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "lake-dyed-three-times",
+          "ordinal": 233,
+          "title": "The Lake Dyed Three Times: Early October",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "lake-of-pink-fountains",
+          "ordinal": 234,
+          "title": "Strawberries the Size of Houses",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "lamps-among-golden-leaves",
+          "ordinal": 235,
+          "title": "Climbing the Tree City",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 82838496,
+      "sourceSha256": "27f0ac3863d8667d6e297f3e8b26f725b831be820c61760ea53b51b4017afa3b"
+    },
+    {
+      "part": 77,
+      "file": "portals-all-worlds-part-077.mp4",
+      "bytes": 28454814,
+      "sha256": "252675a9d4ce072136f41da96048c3124cd0cc8e3848e8fbecb9faf611957ebc",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12895968556404114,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "lamps-under-the-roots",
+          "ordinal": 236,
+          "title": "The Hatch in the Forest Floor",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "lantern-river",
+          "ordinal": 237,
+          "title": "River of Lanterns, Midnight",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "lanterns-under-ice",
+          "ordinal": 238,
+          "title": "Lanterns under the Ice",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 75490340,
+      "sourceSha256": "9cddfc41fef4a21376ae0c06e3342fa9a04c76051756242b2ef76055a34cc070"
+    },
+    {
+      "part": 78,
+      "file": "portals-all-worlds-part-078.mp4",
+      "bytes": 28092984,
+      "sha256": "17181f3eb928f2ca714a441e3dc50c023631376d8abea0181059e3b491f91f87",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12980009615421295,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "last-lit-windows",
+          "ordinal": 239,
+          "title": "The Last Lit Windows",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "leaded-forest",
+          "ordinal": 240,
+          "title": "The Leaded Forest",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "lemon-cliffs",
+          "ordinal": 241,
+          "title": "The Lemon Cliffs",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 77163571,
+      "sourceSha256": "87fc2df56ce3ee96dde4423ea06300bc56bef22e65725fcd3d023aea6e3f0238"
+    },
+    {
+      "part": 79,
+      "file": "portals-all-worlds-part-079.mp4",
+      "bytes": 28693280,
+      "sha256": "6cdbb9b4ca6bdbb624c43dd6f573f11257fff2c11197e63a9d2349d06d8bdd52",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12895703315734863,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "lens-works",
+          "ordinal": 242,
+          "title": "The Lighthouse Lens, Snow Light",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "light-from-the-left",
+          "ordinal": 243,
+          "title": "Light from the Left",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "light-in-every-dark-place",
+          "ordinal": 244,
+          "title": "A Light in Every Dark Place",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 67729223,
+      "sourceSha256": "6a511c5b74592f4dada0e826645f970bb097cee03b3d2041b5e158d1ccdbff6a"
+    },
+    {
+      "part": 80,
+      "file": "portals-all-worlds-part-080.mp4",
+      "bytes": 28066460,
+      "sha256": "6aead6de31b6abbf14d2ee812f62e7a607835825b8c9d37c1aad25fbc54a6f31",
+      "duration": 60,
+      "audio": {
+        "peak": 0.11940641701221466,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "line-along-the-river-of-stars",
+          "ordinal": 245,
+          "title": "The Line Along the River of Stars",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "line-through-the-hill",
+          "ordinal": 246,
+          "title": "The Pencil Railway",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "liquid-crystal-squall",
+          "ordinal": 247,
+          "title": "The Liquid-Crystal Squall",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 68531299,
+      "sourceSha256": "ee23f28873166a7201dc2b76df93a3f838571d0dfaee4a934a4bf383c6ac6547"
+    },
+    {
+      "part": 81,
+      "file": "portals-all-worlds-part-081.mp4",
+      "bytes": 28237717,
+      "sha256": "99eaa6496eef16c401165c4d4847415ae8514762acb7386418174f131440102a",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1313762217760086,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "litho-medusae",
+          "ordinal": 248,
+          "title": "A Page of Jellyfish",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "long-library",
+          "ordinal": 249,
+          "title": "The Long Library",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "longest-animal",
+          "ordinal": 250,
+          "title": "The Longest Animal",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 78468940,
+      "sourceSha256": "b225417366e33204dcc625fa560f51f146f98d76637842f3bdd1f3e9e240815d"
+    },
+    {
+      "part": 82,
+      "file": "portals-all-worlds-part-082.mp4",
+      "bytes": 28880347,
+      "sha256": "4d50fe9c6a9290a481cc003600af308d0aca2c01c227e0f336b0da79a895bb89",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1276049166917801,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "loom-of-numbers",
+          "ordinal": 251,
+          "title": "Weaves Algebraical Patterns",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "macaw-wall",
+          "ordinal": 252,
+          "title": "The Clay Lick",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "maelstrom-descent",
+          "ordinal": 253,
+          "title": "Down the Maelstrom",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 85418330,
+      "sourceSha256": "f643074a9cafa7269e416e8c15f168e8ee159545cfd76805a0713b95e8ec9b33"
+    },
+    {
+      "part": 83,
+      "file": "portals-all-worlds-part-083.mp4",
+      "bytes": 28335507,
+      "sha256": "feefc709b9d99ba2b4138cac854a5b3ce85051352ecf596729a15ed204802b8c",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13023577630519867,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "malecon-norther",
+          "ordinal": 254,
+          "title": "The Front Arrives",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "mammoth-midnight-sun",
+          "ordinal": 255,
+          "title": "The Saiga River · 20,000 years ago",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "manta-cyclone",
+          "ordinal": 256,
+          "title": "Inside the Manta Cyclone",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 71380649,
+      "sourceSha256": "227d0301121a3bda938fa83f2f8ac1e3ed6f428d59d06c7e3ef56be91596fc27"
+    },
+    {
+      "part": 84,
+      "file": "portals-all-worlds-part-084.mp4",
+      "bytes": 28389304,
+      "sha256": "a88e8e2102bafe8017931ec5ebc1b5351186f022222d745de11be68889f1087f",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12667299807071686,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "maple-gale",
+          "ordinal": 257,
+          "title": "The Leaf Wind, Evening",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "mara-crossing",
+          "ordinal": 258,
+          "title": "Crossing the Mara",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "marigold-way-home",
+          "ordinal": 259,
+          "title": "The Marigold Way Home",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 81590393,
+      "sourceSha256": "9ab3ede234f5ca032c3df610c5a119b48cb97ff20c5ff142636994f26287b762"
+    },
+    {
+      "part": 85,
+      "file": "portals-all-worlds-part-085.mp4",
+      "bytes": 28144077,
+      "sha256": "0172104e62a612495569475b9e4afc758fd3944cad2867a6e85a14c4cc12df3e",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13401170074939728,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "mausoleum-at-halicarnassus",
+          "ordinal": 260,
+          "title": "The Mausoleum at Halicarnassus",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "mayfly-bloom",
+          "ordinal": 261,
+          "title": "The Tisza in Flower",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "mended-country",
+          "ordinal": 262,
+          "title": "The Country Mended with Gold",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72655268,
+      "sourceSha256": "87522d7926d48d0a592e8738e296745387d808d376a84b90cd00ddebc0e9486d"
+    },
+    {
+      "part": 86,
+      "file": "portals-all-worlds-part-086.mp4",
+      "bytes": 28356705,
+      "sha256": "bd95879d09e0aaa876d48d5458ff337c42d05c8ed50527df7fe2429aff8350b3",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13296020030975342,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "milky-sea",
+          "ordinal": 263,
+          "title": "The Milky Sea: Snowfield",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "million-mirrors",
+          "ordinal": 264,
+          "title": "Hall of a Million Mirrors, Noon",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "mirror-chimneys",
+          "ordinal": 265,
+          "title": "The Upside-Down Pools",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 72796874,
+      "sourceSha256": "ce83aa3a6a793dc4b2e8f4213c1601a3f744ad151889ad6bde53d968bec03074"
+    },
+    {
+      "part": 87,
+      "file": "portals-all-worlds-part-087.mp4",
+      "bytes": 28325327,
+      "sha256": "009c4ba88afd16411e1f96d32eb00036873f914abe741c494395cc90ff7603d3",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12715429067611694,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "mola-reef",
+          "ordinal": 266,
+          "title": "Mola Reef",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "monarch-sanctuary",
+          "ordinal": 267,
+          "title": "The Orange Settling",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "moon-in-dry-dock",
+          "ordinal": 268,
+          "title": "The Moon in Dry Dock",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 78816963,
+      "sourceSha256": "6225337112ce76e7fb19236061f43b6f2281b165bb62800dd05138f08fb9a03d"
+    },
+    {
+      "part": 88,
+      "file": "portals-all-worlds-part-088.mp4",
+      "bytes": 28471915,
+      "sha256": "828a5e2d9e45d4763da56c7eaf546e096e9ce3847abb25fc544d6f64c668db07",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12578949332237244,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "moon-in-every-paddy",
+          "ordinal": 269,
+          "title": "Moon in Every Paddy",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "moon-jar-kiln",
+          "ordinal": 270,
+          "title": "Fire of the Moon Jars",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "moor-under-the-fog-bank",
+          "ordinal": 271,
+          "title": "The Footprints of a Gigantic Hound",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 69443721,
+      "sourceSha256": "fe3ca7cb4ca7b2dbec6ef13b9144b2bfe68ad74c67bc0bd2b515684b7bbc9f9b"
+    },
+    {
+      "part": 89,
+      "file": "portals-all-worlds-part-089.mp4",
+      "bytes": 28795065,
+      "sha256": "e95d586be0b84ce3fa5a4758f10fbcf3296240f5a1eaf0dcb3b5b2b6370608de",
+      "duration": 60,
+      "audio": {
+        "peak": 0.12591740489006042,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "morning-after-the-gale",
+          "ordinal": 272,
+          "title": "The House with Its Roof Blown Off",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "moss-rain-veranda",
+          "ordinal": 273,
+          "title": "The Long Rain, Turning to Snow",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "mother-of-pearl-shoal",
+          "ordinal": 274,
+          "title": "The Mother-of-Pearl Shoal",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 83221674,
+      "sourceSha256": "d7badddea815d4855e5a4a691f5762f62d3a10f90bb2212b0e3634a2cf0d102d"
+    },
+    {
+      "part": 90,
+      "file": "portals-all-worlds-part-090.mp4",
+      "bytes": 37880862,
+      "sha256": "733e732816607586af99e34aee3afe9c917c5d9c60e02ab2ea822da4adbe214f",
+      "duration": 80,
+      "audio": {
+        "peak": 0.1306573748588562,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "mountain-of-four-elements",
+          "ordinal": 275,
+          "title": "The Mountain of Four Elements",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "mud-tower-haboob",
+          "ordinal": 276,
+          "title": "The Wall of Dust",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "muffins-that-look-back",
+          "ordinal": 277,
+          "title": "Which One Is the Dog",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "natron-liftoff",
+          "ordinal": 278,
+          "title": "The Lake Takes Flight",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 90429797,
+      "sourceSha256": "805454d31c24bc915361b7c9fcf43740fc13e0a588e827760563a94fadb916bb"
+    },
+    {
+      "part": 91,
+      "file": "portals-all-worlds-part-091.mp4",
+      "bytes": 28220401,
+      "sha256": "7437d7ed86d3af46ab2dd93e55a85110fbcdf601c9b6c847d52de9ba2ebd6e9a",
+      "duration": 60,
+      "audio": {
+        "peak": 0.13044025003910065,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "neon-monsoon",
+          "ordinal": 279,
+          "title": "Neon Monsoon",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "net-on-the-vault",
+          "ordinal": 280,
+          "title": "The Water-Lit Hall",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "net-up-the-pillar",
+          "ordinal": 281,
+          "title": "Up to the Monastery in a Net",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 78689533,
+      "sourceSha256": "bf8cf92b63cc70de2700b30abadf0a745c9cefa0c36eea149bee6d0ab367c43b"
+    },
+    {
+      "part": 92,
+      "file": "portals-all-worlds-part-092.mp4",
+      "bytes": 37673634,
+      "sha256": "72633349a4a68b55f1fe98ca349bb9da304381bfee582a9616f3b6f0e15d755b",
+      "duration": 80,
+      "audio": {
+        "peak": 0.12733089923858643,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "night-by-the-slice",
+          "ordinal": 282,
+          "title": "Night by the Slice",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "night-shining",
+          "ordinal": 283,
+          "title": "A Balloon at Polar Midnight",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "night-under-the-oaks",
+          "ordinal": 284,
+          "title": "Where Night Spends the Day",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "no-colour-on-colour",
+          "ordinal": 285,
+          "title": "No Colour upon Colour",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 90151765,
+      "sourceSha256": "e2eae1cdae9f8e75eb03ec85debf573a06a2c6adaa892d69dc3893790d3a9064"
+    },
+    {
+      "part": 93,
+      "file": "portals-all-worlds-part-093.mp4",
+      "bytes": 37353454,
+      "sha256": "f39fdb8890fdac211de9f983b792aa6d2d5466999bee2bb9d80b3a83140e9155",
+      "duration": 80,
+      "audio": {
+        "peak": 0.13547822833061218,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "nobody-up-yet",
+          "ordinal": 286,
+          "title": "Nobody Up Yet",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "obsidian-forge",
+          "ordinal": 287,
+          "title": "Black Glass and Lava",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "octilinear-city",
+          "ordinal": 288,
+          "title": "The City That Is Only Its Map: Early Edition",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "oculus-day",
+          "ordinal": 289,
+          "title": "One Day under the Oculus",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 85877572,
+      "sourceSha256": "95085ce006095f9fcf6da094d6e55bc5ea99bc096483d56bdd8c6061228deed5"
+    },
+    {
+      "part": 94,
+      "file": "portals-all-worlds-part-094.mp4",
+      "bytes": 37648011,
+      "sha256": "6d7c8390c10cedde52e1a55ac0a561f2256b461879f56adc795197b14c617ad0",
+      "duration": 80,
+      "audio": {
+        "peak": 0.12437933683395386,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "old-light-arriving",
+          "ordinal": 290,
+          "title": "Old Light Arriving",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "one-bit-moonrise",
+          "ordinal": 291,
+          "title": "The One-Bit Moon",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "one-standing-place",
+          "ordinal": 292,
+          "title": "The One Standing Place, After Rain",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "orbit-dawn",
+          "ordinal": 293,
+          "title": "Orbital Sunrise",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 85869223,
+      "sourceSha256": "870acd51db261657d9ba3921d9c051ec0002879c07e453b549b8bf1a9f1d0b89"
+    },
+    {
+      "part": 95,
+      "file": "portals-all-worlds-part-095.mp4",
+      "bytes": 37315551,
+      "sha256": "4a259d5ac9dd24233904ebe10cb9a376f99b613c59ef6623aa3125c942963758",
+      "duration": 80,
+      "audio": {
+        "peak": 0.13446898758411407,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "otter-in-the-window-seat",
+          "ordinal": 294,
+          "title": "Otter in the Window Seat",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "out-the-nursery-window",
+          "ordinal": 295,
+          "title": "Out the Nursery Window",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "over-the-rim",
+          "ordinal": 296,
+          "title": "Over the Rim, Cloud Sea",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "over-the-wall-on-a-box",
+          "ordinal": 297,
+          "title": "Over the Wall on a Box",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 82533344,
+      "sourceSha256": "6a7947d7f418fbcd7e9771bdeb1169d506d2df9db5e403f74b71381c44ce909b"
+    },
+    {
+      "part": 96,
+      "file": "portals-all-worlds-part-096.mp4",
+      "bytes": 37140705,
+      "sha256": "cd1000377d0cfae9ff4503bfdd34ef8c746070824ff9860cc805cdb19919b336",
+      "duration": 80,
+      "audio": {
+        "peak": 0.13749586045742035,
+        "bad": 0,
+        "duration": 80
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "painted-ridges",
+          "ordinal": 298,
+          "title": "The Painted Ridges",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "painted-shadow-town",
+          "ordinal": 299,
+          "title": "Painted Shadow Town",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "painted-where-you-stood",
+          "ordinal": 300,
+          "title": "Painted Where You Stood",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        },
+        {
+          "id": "pallet-tower-midsummer",
+          "ordinal": 301,
+          "title": "A Tower Built to Burn",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 60,
+          "end": 80
+        }
+      ],
+      "sourceBytes": 90264286,
+      "sourceSha256": "93a9743c8925b98f433729c20d20c011119712b98da55c6d2bcdfc9b9c3067b7"
+    },
+    {
+      "part": 97,
+      "file": "portals-all-worlds-part-097.mp4",
+      "bytes": 28900247,
+      "sha256": "a8236988ab1912d0521f0dea109ffbc2d1bc35cbb994e373c6b1e31abd3a5357",
+      "duration": 60,
+      "audio": {
+        "peak": 0.1316126137971878,
+        "bad": 0,
+        "duration": 60
+      },
+      "group": "Inherited Portals collection",
+      "videoEncoder": "h264_nvenc",
+      "worlds": [
+        {
+          "id": "paper-boat-rapids",
+          "ordinal": 302,
+          "title": "Paper Boat Rapids",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "id": "paper-kingdom",
+          "ordinal": 303,
+          "title": "The Pop-Up Book Opens",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 20,
+          "end": 40
+        },
+        {
+          "id": "pastel-bulb-fields",
+          "ordinal": 304,
+          "title": "Stripes of April",
+          "original": false,
+          "draft": false,
+          "renderQuality": "high",
+          "start": 40,
+          "end": 60
+        }
+      ],
+      "sourceBytes": 76092032,
+      "sourceSha256": "f746adf765c438c37318ee5c43de183f70a77d5279e161196b5c642082270067"
+    }
+  ]
+}
