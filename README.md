@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**15 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**16 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -166,7 +166,7 @@ Worlds: Sulphur Burns Blue, The Blue Riband: Morning Arrival, Blue Sails on a Dr
 
 <details><summary>Part 016 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-016.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/a8affa4b-04e9-4256-81be-d03b67f79687
 
 Worlds: The Boat with No One Aboard, One Blue Box, Four Skies, The Walking Boulders · 30,000 years ago.
 
