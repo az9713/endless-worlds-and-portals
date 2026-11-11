@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**12 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**13 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -136,7 +136,7 @@ Worlds: The Bear at the Feast, The Organ Cave, Mega Mendung: Bang-Bangan.
 
 <details><summary>Part 013 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-013.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/43fa2831-6cc5-4c02-ba5f-9ea74b7f6e5a
 
 Worlds: The Beaded Sea, The Bed Went Walking, A Hundred Bells Below Stairs.
 
