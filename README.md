@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**64 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**65 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -662,7 +662,7 @@ Worlds: The Harbour of One Lamp, Harvest in Profile, Heavy Things on a Sheet, Th
 
 <details><summary>Part 065 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-065.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/f89d5637-aef3-463d-bae7-3bc10717c841
 
 Worlds: Inside the Great Wave, The Honey Cliff above the Cloud, Hoopwind.
 
