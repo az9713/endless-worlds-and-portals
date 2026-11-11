@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**82 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**84 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -842,7 +842,7 @@ Worlds: Weaves Algebraical Patterns, The Clay Lick, Down the Maelstrom.
 
 <details><summary>Part 083 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-083.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/2c6297b5-4319-4087-9b38-76ee322e3e18
 
 Worlds: The Front Arrives, The Saiga River · 20,000 years ago, Inside the Manta Cyclone.
 
@@ -852,7 +852,7 @@ Worlds: The Front Arrives, The Saiga River · 20,000 years ago, Inside the Manta
 
 <details><summary>Part 084 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-084.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/c570ae4a-e42c-424c-afd3-a7ab58c65976
 
 Worlds: The Leaf Wind, Evening, Crossing the Mara, The Marigold Way Home.
 
