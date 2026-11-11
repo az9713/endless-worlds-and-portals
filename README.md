@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**38 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**39 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -396,7 +396,7 @@ Worlds: Three Million Bats.
 
 <details><summary>Part 039 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-039.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/1e4227da-5809-4ce5-bf99-e4bb23de67de
 
 Worlds: Okavango in Flood, A Ladybird Among the Dewdrops, Ninety Bell Towers at Dusk.
 
