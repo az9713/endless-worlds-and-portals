@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**19 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**21 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -206,7 +206,7 @@ Worlds: Skin of a Bubble, Frost Morning, Cables to the Moon, Sunshafts in the Sl
 
 <details><summary>Part 020 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-020.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/e33f33d6-5444-49c6-961a-d7616db809d5
 
 Worlds: Canyon of Three Airs: Lilac Tide, Not Enough Engine, Wool on the Thorn: The Rut.
 
@@ -216,7 +216,7 @@ Worlds: Canyon of Three Airs: Lilac Tide, Not Enough Engine, Wool on the Thorn: 
 
 <details><summary>Part 021 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-021.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/5e65f15e-9f7f-42e1-890e-d59e623051cb
 
 Worlds: The Carillon Grove, Night, Carnival on the Frozen River, The Carousel Works.
 
