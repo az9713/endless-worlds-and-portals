@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**42 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**43 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -440,7 +440,7 @@ Worlds: The Peacock Lakes, The Ember Moon · 4.5 billion years ago, The Huddle.
 
 <details><summary>Part 043 — 4 worlds · 1:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-043.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/1c04b972-c24e-4e60-a11c-5b213348286f
 
 Worlds: Isles of Jewelled Eggs, The Engraved Sea: First Proof, The Envelope at Dawn, Plywood Sky.
 
