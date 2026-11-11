@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**52 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**53 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -540,7 +540,7 @@ Worlds: Small Planet, Empty Chair, Launch Row, Evening Edition, Four Stone Kings
 
 <details><summary>Part 053 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-053.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/c34e8d0c-9215-40dc-8ee8-05c177433ad8
 
 Worlds: The Frieze Without End, Museum of Frozen Weather, Gale in Green Glass.
 
