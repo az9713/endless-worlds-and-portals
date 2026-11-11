@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**44 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**45 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -460,7 +460,7 @@ Worlds: Paperclips, As Requested, Every Wingbeat Stays, False Stars.
 
 <details><summary>Part 045 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-045.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/26204cba-b82e-4084-bb4b-df13b7c5a822
 
 Worlds: The Green Arctic Sea · 49 million years ago, The Field in Thick Paint, The Field of Doors.
 
