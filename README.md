@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**56 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**57 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -582,7 +582,7 @@ Worlds: The Garden of Sixty Gardens: April, The Garden Upside Down, The Gates in
 
 <details><summary>Part 057 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-057.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/f2fa4c19-1c87-4c68-8a2a-f95040988696
 
 Worlds: The Geode Run, The Gilded Margin, Up to the Rose Window.
 
