@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**36 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**38 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -376,7 +376,7 @@ Worlds: Cut from the Sky, The Cut Mountain, first light.
 
 <details><summary>Part 037 — 1 worlds · 0:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-037.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/b5dbfffd-2c47-453c-b612-2c1e0a8e200b
 
 Worlds: A Contrail, Flown Backwards.
 
@@ -386,7 +386,7 @@ Worlds: A Contrail, Flown Backwards.
 
 <details><summary>Part 038 — 1 worlds · 0:20</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-038.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/6d9bc425-b39b-4b17-b3a7-1851a3791428
 
 Worlds: Three Million Bats.
 
