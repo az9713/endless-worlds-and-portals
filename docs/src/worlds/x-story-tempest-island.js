@@ -1,0 +1,1 @@
+import{buildTempestWorld as e}from"../parts/x-story-tempest-world.js";var d={id:"x-story-tempest-island",name:"The Island That Staged a Storm",category:"books",weirdness:.55,build:e};export{d as default};

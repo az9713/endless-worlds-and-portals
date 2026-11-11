@@ -1,0 +1,1 @@
+import{buildNeutrinoChamber as e}from"../parts/x-sci-neutrino-chamber.js";var r={id:"x-sci-neutrino-sea",name:"One Neutrino in a Golden Sea",category:"interior",weirdness:.35,build:e};export{r as default};

@@ -1,0 +1,10 @@
+import*as a from"three";function d(t){const i={time:{value:0},sun:{value:t.clone().normalize()}},o=new a.ShaderMaterial({transparent:!0,depthWrite:!1,uniforms:i,vertexShader:`varying vec3 hit,eye;void main(){hit=position;vec3 d=cameraPosition-modelMatrix[3].xyz;
+      eye=vec3(dot(d,modelMatrix[0].xyz)/dot(modelMatrix[0].xyz,modelMatrix[0].xyz),dot(d,modelMatrix[1].xyz)/dot(modelMatrix[1].xyz,modelMatrix[1].xyz),dot(d,modelMatrix[2].xyz)/dot(modelMatrix[2].xyz,modelMatrix[2].xyz));
+      gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,fragmentShader:`precision highp float;varying vec3 hit,eye;uniform float time;uniform vec3 sun;
+      float hash(vec3 p){p=fract(p*.1031);p+=dot(p,p.yzx+33.33);return fract((p.x+p.y)*p.z);}
+      float noise(vec3 p){vec3 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(mix(hash(i),hash(i+vec3(1,0,0)),f.x),mix(hash(i+vec3(0,1,0)),hash(i+vec3(1,1,0)),f.x),f.y),mix(mix(hash(i+vec3(0,0,1)),hash(i+vec3(1,0,1)),f.x),mix(hash(i+vec3(0,1,1)),hash(i+vec3(1,1,1)),f.x),f.y),f.z);}
+      float density(vec3 p){float edge=1.-dot(p/vec3(4.55,4.4,4.55),p/vec3(4.55,4.4,4.55));vec3 q=p*.53+vec3(time*.025,time*.012,0.);float n=.57*noise(q)+.28*noise(q*2.07)+.15*noise(q*4.13);return max(0.,edge)*smoothstep(.32,.7,n)*2.5;}
+      void main(){vec3 rd=normalize(hit-eye),inv=1./rd;vec3 a=(-vec3(5)-eye)*inv,b=(vec3(5)-eye)*inv;vec3 lo=min(a,b),hi=max(a,b);float start=max(0.,max(lo.x,max(lo.y,lo.z))),end=min(hi.x,min(hi.y,hi.z));if(end<=start)discard;
+        float ds=(end-start)/32.,trans=1.;vec3 color=vec3(0);for(int i=0;i<32;i++){vec3 p=eye+rd*(start+(float(i)+.5)*ds);float d=density(p),shade=exp(-density(p+sun*.9)*1.4);float alpha=1.-exp(-d*ds*.9);vec3 light=mix(vec3(.28,.40,.47),vec3(1.15,1.12,.96),shade);color+=trans*alpha*light;trans*=1.-alpha;}
+        float alpha=1.-trans;if(alpha<.004)discard;gl_FragColor=vec4(color/max(alpha,.001),alpha);
+      }`}),e=new a.Mesh(new a.BoxGeometry(10,10,10),o);return e.position.set(76,26,-246),e.renderOrder=1,{object:e,update(n,r){i.time.value=r}}}export{d as bottledCloud};

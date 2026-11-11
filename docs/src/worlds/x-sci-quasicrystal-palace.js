@@ -1,0 +1,1 @@
+import{quasicrystal as a}from"../parts/x-sci-laboratory.js";var r={id:"x-sci-quasicrystal-palace",name:"The Palace That Refuses to Repeat",category:"bizarre",weirdness:.6,build:a};export{r as default};
