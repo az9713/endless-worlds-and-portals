@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**28 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**29 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -296,7 +296,7 @@ Worlds: The Cloudburst Local: Lamp-lighting.
 
 <details><summary>Part 029 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-029.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/3dd1178c-131e-4aba-a38b-9daaacb0ab45
 
 Worlds: The Colossus of Rhodes, The Combed Sea, Sun-Shower, The Comet Comes Apart.
 
