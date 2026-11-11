@@ -16,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**45 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**46 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -470,7 +470,7 @@ Worlds: The Green Arctic Sea · 49 million years ago, The Field in Thick Paint, 
 
 <details><summary>Part 046 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-046.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/5540fe64-e0da-420f-a322-56fe713de004
 
 Worlds: We Passed the Fields of Gazing Grain, Figure and Ground, rain edition, The Sand Sea Drowns · 134 million years ago.
 
