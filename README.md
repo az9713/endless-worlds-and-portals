@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**25 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**26 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -266,7 +266,7 @@ Worlds: The Chinar Terraces in April, Half the Town Overhead, Valdrada, the City
 
 <details><summary>Part 026 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-026.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/e71442ba-81bf-473e-b5e6-6a82157fbd86
 
 Worlds: The City Hung Below Its Net, The City in the Lake, The City on Stilts Above the Cloud, by Moonlight.
 
