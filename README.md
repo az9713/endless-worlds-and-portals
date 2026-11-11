@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**79 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**80 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -812,7 +812,7 @@ Worlds: The Lighthouse Lens, Snow Light, Light from the Left, A Light in Every D
 
 <details><summary>Part 080 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-080.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/517957c9-2e15-4ad9-b3f1-be3f1b9d2471
 
 Worlds: The Line Along the River of Stars, The Pencil Railway, The Liquid-Crystal Squall.
 
