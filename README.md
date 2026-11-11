@@ -1,5 +1,9 @@
 # Portals: Beyond — compressed video showcase
 
+<!-- PUBLICATION-IN-PROGRESS -->
+> Upload in progress. Some MP4 downloads and inline players are still being added. The player count below shows what is ready.
+<!-- /PUBLICATION-IN-PROGRESS -->
+
 An immutable snapshot of **97 MP4 parts**, containing **304 worlds**: 33 newly authored registered worlds and 271 inherited worlds from [Ethan Mollick’s Portals](https://github.com/emollick/ai-portals).
 
 Total video size: **2.63 GiB**. Duration: **101 minutes 20 seconds**. 1280×720, 24 fps, H.264/AAC.
@@ -12,7 +16,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**39 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**41 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -406,7 +410,7 @@ Worlds: Okavango in Flood, A Ladybird Among the Dewdrops, Ninety Bell Towers at 
 
 <details><summary>Part 040 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-040.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/9af11ce3-18ab-455f-ba5b-d2ee7b75e678
 
 Worlds: Where the Doors Are Kept, The Drafted City, The Hundred-Segment Dragon.
 
@@ -416,7 +420,7 @@ Worlds: Where the Doors Are Kept, The Drafted City, The Hundred-Segment Dragon.
 
 <details><summary>Part 041 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-041.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/50f2782e-1b5f-4a48-89f0-f734145930f8
 
 Worlds: The Umbrella Forest, The Drawer Cliffs, The Drowned Domes.
 
