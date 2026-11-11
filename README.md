@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**72 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**73 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -742,7 +742,7 @@ Worlds: An Island in the Air, The Floating Islands, The Isle of Broken Towers, T
 
 <details><summary>Part 073 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-073.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/8f3ddb23-fa36-406e-8445-29fb4bf75c74
 
 Worlds: Kelp Cathedral, The Khlong Run, Knee-Deep Under the Wave.
 
