@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**69 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**71 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -712,7 +712,7 @@ Worlds: The Glass Birches.
 
 <details><summary>Part 070 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-070.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/ea285bb4-7093-41f7-a8d4-bd56cbab5f99
 
 Worlds: The Blue Yard, Mountains of Wet Ink, The Inside-Out World.
 
@@ -722,7 +722,7 @@ Worlds: The Blue Yard, Mountains of Wet Ink, The Inside-Out World.
 
 <details><summary>Part 071 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-071.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/0eddad14-a00a-48b8-b1b9-cabbc979c737
 
 Worlds: The Iron Tide, The Eiffel Tower by Gaslight, The Island Being Born.
 
