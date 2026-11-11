@@ -12,7 +12,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**17 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**18 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -186,7 +186,7 @@ Worlds: Breakfast Kingdom, Brick Above the Cloud, Across on the Petals.
 
 <details><summary>Part 018 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-018.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/99e62393-bf7a-41b1-b94a-dc55022ed164
 
 Worlds: Volcano Plume on an Airless Moon, The Ice Finger, Walled All Around in Bronze.
 
