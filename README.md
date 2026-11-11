@@ -1,6 +1,6 @@
 # Endless Worlds and Portals
 
-An endless, hands-off flight through 504 procedural 3D worlds in the browser. Each world ends in a portal. The portal opens on the next world, and the flight continues.
+An endless, hands-off flight through 520 procedural 3D worlds in the browser. Each world ends in a portal. The portal opens on the next world, and the flight continues.
 
 [![The Midwinter Express, one world of the app: a steam train crosses a lit stone viaduct above a snowy mountain town at dusk. Click to open the live app.](readme/portals-screenshot.jpeg)](https://az9713.github.io/endless-worlds-and-portals/)
 
@@ -35,7 +35,7 @@ Press **S** for sound. The site is a static web page. Your browser draws every w
 
 | Path | Content |
 |---|---|
-| `docs/` | The built site that GitHub Pages serves. It has 504 registered worlds. Build stamp: `beyond-clock-galleries-1`. |
+| `docs/` | The built site that GitHub Pages serves. It has 520 registered worlds. Build stamp: `beyond-sixteen-finished-1`. |
 | `LICENSE` | CC BY-NC-SA 4.0 licence text |
 | `THIRD-PARTY-NOTICES.txt` | Credits for three.js and other open-source work |
 
@@ -43,15 +43,15 @@ To run the site on your own machine, serve `docs/` with any static file server, 
 
 ## Origin and licence
 
-This is a derivative of [Portals by Ethan Mollick (`emollick/ai-portals`)](https://github.com/emollick/ai-portals), taken at commit `210133f4e718acb7b461f2a40c90661a40a2397f`. That commit had 471 worlds. This site has 504: the 471 inherited worlds plus 33 new original worlds.
+This is a derivative of [Portals by Ethan Mollick (`emollick/ai-portals`)](https://github.com/emollick/ai-portals), taken at commit `210133f4e718acb7b461f2a40c90661a40a2397f`. That commit had 471 worlds. This site has 520: the 471 inherited worlds plus 49 new original worlds.
 
 Changes from the upstream project:
 
-- 33 new original worlds. They include a Wonderland garden, a ribbon town, a cloud port and a clockwork city.
+- 49 new original worlds. They include a Wonderland garden, a ribbon town, a cloud port, a clockwork city, a weaving hall for the moon, a monsoon inside a sundial, a cello you can fly inside and a Foucault pendulum observatory.
 - A code-generated piano score replaces the upstream audio. The score plays on without a break across portals.
 - Manual exploration: the E key and drag-to-look-around.
 
-Sixteen unfinished original worlds are not part of this site.
+One unfinished original world, a Nautilus submarine, is not part of this site.
 
 The work is licensed under [CC BY-NC-SA 4.0](LICENSE). Credit the original Portals project and Ethan Mollick when you reuse it. Use it for non-commercial purposes only. Share changes under the same licence.
 

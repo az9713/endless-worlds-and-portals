@@ -1,2 +1,1 @@
-import { cilia } from '../parts/x-sci2-habitats.js';
-export default { id: "x-sci2-cilia-ocean", name: "The Ocean Has Eyelashes", category: "ocean", weirdness: 0.5, build: cilia };
+import{cilia as n}from"../parts/x-sci2-habitats.js";import{enrichCilia as o}from"../parts/x-sci2b-cilia.js";async function r(a){const e=performance.now(),i=await o(a,await n(a));return i.diagnostics.buildMs=Math.round(performance.now()-e),i}var s={id:"x-sci2-cilia-ocean",name:"The Ocean Has Eyelashes",category:"ocean",weirdness:.5,build:r};export{s as default};

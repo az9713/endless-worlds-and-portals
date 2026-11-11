@@ -1,2 +1,1 @@
-import { chladni } from '../parts/x-sci2-habitats.js';
-export default { id: "x-sci2-chladni-choir", name: "The Sand Choir", category: "interior", weirdness: 0.35, build: chladni };
+import{chladni as o}from"../parts/x-sci2-habitats.js";import{enrichChladni as a}from"../parts/x-sci2b-chladni.js";async function e(i){const r=performance.now(),n=await a(i,await o(i));return n.diagnostics.buildMs=Math.round(performance.now()-r),n}var d={id:"x-sci2-chladni-choir",name:"The Sand Choir",category:"interior",weirdness:.35,build:e};export{d as default};

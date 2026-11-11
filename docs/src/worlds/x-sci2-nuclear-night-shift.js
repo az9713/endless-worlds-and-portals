@@ -1,2 +1,1 @@
-import { dna } from '../parts/x-sci2-habitats.js';
-export default { id: "x-sci2-nuclear-night-shift", name: "The Night Shift in the Nucleus", category: "alien", weirdness: 0.55, build: dna };
+import{nucleusRich as e}from"../parts/x-sci2a-nuclear-night-shift.js";var t={id:"x-sci2-nuclear-night-shift",name:"The Night Shift in the Nucleus",category:"alien",weirdness:.55,build:e};export{t as default};

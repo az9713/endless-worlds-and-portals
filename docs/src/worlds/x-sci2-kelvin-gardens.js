@@ -1,2 +1,1 @@
-import { kelvin } from '../parts/x-sci2-habitats.js';
-export default { id: "x-sci2-kelvin-gardens", name: "Gardens in Fourteen Faces", category: "city", weirdness: 0.45, build: kelvin };
+import{kelvin as i}from"../parts/x-sci2-habitats.js";import{enrichKelvin as o}from"../parts/x-sci2b-kelvin.js";async function a(n){const r=performance.now(),e=await o(n,await i(n));return e.diagnostics.buildMs=Math.round(performance.now()-r),e}var c={id:"x-sci2-kelvin-gardens",name:"Gardens in Fourteen Faces",category:"city",weirdness:.45,build:a};export{c as default};

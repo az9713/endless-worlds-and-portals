@@ -1,2 +1,1 @@
-import { foucault } from '../parts/x-sci2-habitats.js';
-export default { id: "x-sci2-foucault-observatory", name: "The Observatory Lets the Earth Turn", category: "interior", weirdness: 0.2, build: foucault };
+import{foucault as a}from"../parts/x-sci2-habitats.js";import{enrichFoucault as e}from"../parts/x-sci2b-foucault.js";async function n(r){const t=performance.now(),o=await e(r,await a(r));return o.diagnostics.buildMs=Math.round(performance.now()-t),o}var c={id:"x-sci2-foucault-observatory",name:"The Observatory Lets the Earth Turn",category:"interior",weirdness:.2,build:n};export{c as default};
