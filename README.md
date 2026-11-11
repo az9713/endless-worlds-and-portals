@@ -18,7 +18,7 @@ Use the player’s speaker control to hear the code-generated piano; GitHub star
 
 ## Watch the videos
 
-**87 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
+**88 of 97 native players available.** Expand a part and press Play. Each world has 20 seconds across three moving viewpoints.
 
 <details open><summary>Part 001 — 3 worlds · 1:00</summary>
 
@@ -892,7 +892,7 @@ Worlds: Mola Reef, The Orange Settling, The Moon in Dry Dock.
 
 <details><summary>Part 088 — 3 worlds · 1:00</summary>
 
-[Open the MP4](videos/portals-all-worlds-part-088.mp4) — inline player upload in progress.
+https://github.com/user-attachments/assets/534f97a4-3f1c-4ebf-85ff-9b6717b064e3
 
 Worlds: Moon in Every Paddy, Fire of the Moon Jars, The Footprints of a Gigantic Hound.
 
