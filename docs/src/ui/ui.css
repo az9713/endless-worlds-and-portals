@@ -18,7 +18,7 @@ body.idle { cursor: none; }
 #title-line:empty { display: none; }
 #title-meta { margin-top: 0.5em; font-size: 11px; letter-spacing: 0.34em; text-transform: uppercase; opacity: 0.7; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
 
-#hud { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px)); display: flex; gap: 14px; align-items: center; padding: 10px 16px; border-radius: 999px; background: rgba(10, 12, 18, 0.42); backdrop-filter: blur(14px) saturate(1.2); -webkit-backdrop-filter: blur(14px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0; pointer-events: none; transition: opacity 0.6s ease; z-index: 4; }
+#hud { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px)); display: flex; gap: 14px; align-items: center; padding: 10px 16px; border-radius: 999px; background: rgba(10, 12, 18, 0.42); backdrop-filter: blur(14px) saturate(1.2); -webkit-backdrop-filter: blur(14px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0; pointer-events: none; transition: opacity 0.6s ease; z-index: 4; }
 body.active #hud { opacity: 1; pointer-events: auto; }
 #hud label, #panel label.slide { display: flex; align-items: center; gap: 8px; opacity: 0.85; white-space: nowrap; }
 #hud button { all: unset; cursor: pointer; padding: 6px 7px; border-radius: 8px; opacity: 0.85; display: flex; align-items: center; justify-content: center; }
@@ -35,6 +35,20 @@ body.active #hud { opacity: 1; pointer-events: auto; }
 #viewpoint-nav button:hover, #viewpoint-nav button:focus-visible { background: rgba(219,193,139,.18); outline: 1px solid #d8c9a5; }
 #viewpoint-nav button[aria-pressed=true] { background: rgba(219,193,139,.25); border-color: #ddc89d; }
 @media (max-width: 600px) { #explore-hint { width: calc(100vw - 64px); padding: 10px 12px; } #viewpoint-nav button { padding: 9px 8px; flex: 1 1 42%; } }
+/* the position slider along the foot of the page: the bar, the options panel and the title card all stand at least 30px up, above it */
+#seek { position: fixed; left: calc(clamp(20px, 4vw, 56px) + env(safe-area-inset-left, 0px)); right: calc(clamp(20px, 4vw, 56px) + env(safe-area-inset-right, 0px)); bottom: calc(4px + env(safe-area-inset-bottom, 0px)); height: 20px; display: flex; align-items: center; opacity: 0.4; pointer-events: none; transition: opacity 0.6s ease; z-index: 4; }
+#seek[hidden] { display: none; }
+body.active #seek { opacity: 1; pointer-events: auto; }
+#seek input[type=range] { width: 100%; height: 20px; margin: 0; padding: 0; background: transparent; cursor: pointer; touch-action: none; }
+#seek input[type=range]:disabled { cursor: default; opacity: 0.45; }
+#seek input[type=range]::-webkit-slider-runnable-track { height: 2px; border-radius: 2px; background: linear-gradient(to right, rgba(255,255,255,0.85) var(--p, 0%), rgba(255,255,255,0.3) var(--p, 0%)); }
+#seek input[type=range]::-moz-range-track { height: 2px; border-radius: 2px; background: linear-gradient(to right, rgba(255,255,255,0.85) var(--p, 0%), rgba(255,255,255,0.3) var(--p, 0%)); }
+#seek input[type=range]::-webkit-slider-thumb { margin-top: -5px; }
+body.idle #seek input[type=range]::-webkit-slider-thumb { background: transparent; }
+body.idle #seek input[type=range]::-moz-range-thumb { background: transparent; }
+#seek input[type=range]:focus-visible { outline: 1px solid rgba(255,255,255,0.7); outline-offset: 2px; border-radius: 4px; }
+@media (pointer: coarse) { #seek { height: 24px; bottom: calc(3px + env(safe-area-inset-bottom, 0px)); } #seek input[type=range] { height: 24px; } #seek input[type=range]::-webkit-slider-thumb { margin-top: -10px; } }
+@media (max-width: 700px) { #seek { left: calc(12px + env(safe-area-inset-left, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); } }
 #toast.tap { pointer-events: auto; cursor: pointer; }
 .i { width: 17px; height: 17px; display: block; fill: none; stroke: currentColor; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
 /* two-state buttons carry both pictures: .a normally, .b when the button is .on */
@@ -46,7 +60,7 @@ input[type=range]::-moz-range-thumb { width: 12px; height: 12px; border: 0; bord
 
 #debug { position: fixed; left: 8px; top: 8px; font: 11px/1.4 ui-monospace, Menlo, monospace; color: #cfe; background: rgba(0,0,0,0.5); padding: 6px 8px; border-radius: 6px; white-space: pre; display: none; z-index: 6; pointer-events: none; }
 
-#panel { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 58px); width: min(340px, calc(100vw - 24px)); max-height: calc(100% - 120px); overflow-y: auto; box-sizing: border-box; display: grid; gap: 10px; padding: 16px 18px; border-radius: 18px; background: rgba(10, 12, 18, 0.55); backdrop-filter: blur(18px) saturate(1.2); -webkit-backdrop-filter: blur(18px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1.2 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.14em; text-transform: uppercase; z-index: 4; transition: opacity 0.4s ease; }
+#panel { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 58px); width: min(340px, calc(100vw - 24px)); max-height: calc(100% - 120px); overflow-y: auto; box-sizing: border-box; display: grid; gap: 10px; padding: 16px 18px; border-radius: 18px; background: rgba(10, 12, 18, 0.55); backdrop-filter: blur(18px) saturate(1.2); -webkit-backdrop-filter: blur(18px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1.2 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.14em; text-transform: uppercase; z-index: 4; transition: opacity 0.4s ease; }
 #panel[hidden] { display: none; }
 #panel .music-volume span { display: flex; align-items: center; gap: 12px; }
 #panel .music-volume input { width: 140px; }
@@ -88,19 +102,19 @@ body.notitles #title { display: none; }
 /* narrow windows (a phone held upright): the bar spans the screen and the two sliders live in the options panel */
 @media (max-width: 700px) {
   #hud { left: calc(12px + env(safe-area-inset-left, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); justify-content: space-around; }
-  #panel { left: calc(12px + env(safe-area-inset-left, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); width: auto; bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
+  #panel { left: calc(12px + env(safe-area-inset-left, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); width: auto; bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
   #panel select { min-width: 0; flex: 0 1 190px; }
   #title { bottom: calc(92px + env(safe-area-inset-bottom, 0px)); }
   #kinds { max-width: none; }
 }
 /* short windows (a phone held sideways): the panel goes two columns wide so it fits the height */
 @media (max-height: 480px) {
-  #panel { width: min(620px, calc(100vw - 24px - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px))); left: auto; grid-template-columns: 1fr 1fr; column-gap: 22px; max-height: calc(100% - 92px); bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
+  #panel { width: min(620px, calc(100vw - 24px - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px))); left: auto; grid-template-columns: 1fr 1fr; column-gap: 22px; max-height: calc(100% - 106px); bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
   #panel .row { grid-column: 1 / -1; }
   #panel select { min-width: 0; flex: 0 1 150px; }
   #panel select#s-order { flex-basis: 190px; }
   #panel .note { text-align: left; margin-top: 0; align-self: center; }
-  #title { bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
+  #title { bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); }
 }
 @media (prefers-reduced-motion: reduce) { #veil-sub { animation: none; } }
 
@@ -168,7 +182,7 @@ body.atlas-open { cursor: auto !important; }
 @media (max-width: 560px) { .atlas-head select { max-width: 46vw; } .atlas-head .atlas-show { max-width: 64vw; } }
 
 /* the share menu: a small panel over the bar (src/main.js, "sharing") */
-#share { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 58px); display: grid; gap: 2px; padding: 8px; border-radius: 16px; background: rgba(10, 12, 18, 0.55); backdrop-filter: blur(18px) saturate(1.2); -webkit-backdrop-filter: blur(18px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1.2 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.14em; text-transform: uppercase; z-index: 4; transition: opacity 0.4s ease; }
+#share { position: fixed; right: calc(clamp(12px, 3vw, 40px) + env(safe-area-inset-right, 0px)); bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 58px); display: grid; gap: 2px; padding: 8px; border-radius: 16px; background: rgba(10, 12, 18, 0.55); backdrop-filter: blur(18px) saturate(1.2); -webkit-backdrop-filter: blur(18px) saturate(1.2); border: 1px solid rgba(255,255,255,0.14); font: 11px/1.2 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0.14em; text-transform: uppercase; z-index: 4; transition: opacity 0.4s ease; }
 #share[hidden] { display: none; }
 body.idle #share { opacity: 0; pointer-events: none; }
 #share button { all: unset; cursor: pointer; padding: 9px 12px; border-radius: 9px; opacity: 0.9; white-space: nowrap; }
@@ -177,7 +191,7 @@ body.idle #share { opacity: 0; pointer-events: none; }
 #panel .row.checks { flex-wrap: wrap; row-gap: 10px; }
 #panel .row.foot { justify-content: flex-end; }
 @media (pointer: coarse) { #share { font-size: 12px; } #share button { padding: 13px 14px; } }
-@media (max-width: 700px), (max-height: 480px) { #share { bottom: calc(clamp(16px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); } }
+@media (max-width: 700px), (max-height: 480px) { #share { bottom: calc(clamp(30px, 4vh, 40px) + env(safe-area-inset-bottom, 0px) + 64px); } }
 @media (max-width: 700px) {
   #share { right: calc(12px + env(safe-area-inset-right, 0px)); }
   /* the bar's buttons share its width evenly, so that the heart and the share button fit a narrow phone with the rest */

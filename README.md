@@ -35,7 +35,7 @@ Press **S** for sound. The site is a static web page. Your browser draws every w
 
 | Path | Content |
 |---|---|
-| `docs/` | The built site that GitHub Pages serves. It has 520 registered worlds. Build stamp: `beyond-sixteen-finished-1`. |
+| `docs/` | The built site that GitHub Pages serves. It has 520 registered worlds. Build stamp: `beyond-openings-slider-2`. |
 | `LICENSE` | CC BY-NC-SA 4.0 licence text |
 | `THIRD-PARTY-NOTICES.txt` | Credits for three.js and other open-source work |
 
@@ -50,6 +50,7 @@ Changes from the upstream project:
 - 49 new original worlds. They include a Wonderland garden, a ribbon town, a cloud port, a clockwork city, a weaving hall for the moon, a monsoon inside a sundial, a cello you can fly inside and a Foucault pendulum observatory.
 - A code-generated piano score replaces the upstream audio. The score plays on without a break across portals.
 - Manual exploration: the E key and drag-to-look-around.
+- Each visit opens on one of 13 chosen first worlds. Worlds 2 to 12 are drawn at random from the 334 worlds in the top two quality bands. The "Landmarks and New Discoveries" tour is still available from the gallery and at `?suite=beyond-premiere`. A slider lets you jump to any point of the current world.
 
 One unfinished original world, a Nautilus submarine, is not part of this site.
 
